@@ -20,7 +20,9 @@ Cahier des charges
       [voir les types de données]()
 
 4. Son accessibilité ([openQuery](), [openUi]())
-   1. Centraliser l'accés aux informations
+   1. Centraliser l'accés aux informations \
+   voir [openQuery](A-Information/A4-Accessibilité/OpenQuery.md)
+   et [openUi](A-Information/A4-Accessibilité/OpenUI.md)
    2. Toute personnes peut y acceder et repliquer l'information.
 
 ---
