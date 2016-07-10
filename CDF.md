@@ -87,4 +87,4 @@ Lapplication numérique pour l'e-democratie doit etre un :
   recherche d'information, etc...). La vision étant
   > Donne moi de légos et je construirais
 
-  voir [proposition d'une openApi](openApi.md)
+  voir [proposition d'une openApi](OpenApi.md)
