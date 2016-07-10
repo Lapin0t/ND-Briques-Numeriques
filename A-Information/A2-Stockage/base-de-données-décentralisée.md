@@ -8,13 +8,13 @@ Protocole désentralisé
 > réponde pas totallement au cahier des charges.
 
 - ce type d'architecture apporte des complications pour
-  des données dynamique. \
-  eg: Conflit d'écriture sur une base de données \
-  eg: Génération de page dynamic comme sur serveur centraliser. \
+  des données dynamique.
+  <br/>eg: Conflit d'écriture sur une base de données
+  <br/>eg: Génération de page dynamic comme sur serveur centraliser.
   voir [objectif 2.1 du CDF]()
 - Si les client arrête d'utiliser des données c'elle ci sont
-  voué à disparaitres \
-  coir [objectif 2.2 du CDF]()
+  voué à disparaitres
+  <br/>voir [objectif 2.2 du CDF]()
 
 ## Solutions
 
