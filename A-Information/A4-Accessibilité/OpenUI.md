@@ -83,13 +83,15 @@ interface EcritConvertisseur <FormatSortie> {
 
 ### Le formatage
 
-###### Contraintes :
+#### Contraintes :
 Le formatage de ces données a pour obligation d'être légé. rapidement serialisable et convertissable
+
+#### Proposition :
 
 ###### D'un poit de vu thecnique :
 Le format MD semble bien adapté mais il deviens limiter dans certain cas.
 
-Voici des idées de propostions d'améliorations :
+###### Voici des idées de propostions d'améliorations :
 
 - Supprimer les balises HTML eg `<div style="...">`.
 
