@@ -60,6 +60,7 @@ Les schemats UI prédefinit :
 
 L'élément écrit est le seul a avoir une représentation dans la base de données. \
 Mais pourquoi !?
+
 1. Car c'est a l'utilisateur ou organisation de décider de la présentation
 souhaitez. Chacun doit être libre de mettre en avant ou non un artice sur
 ca page personnel.
