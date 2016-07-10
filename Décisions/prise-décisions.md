@@ -4,10 +4,9 @@ Prise de décisions
 
 Contraintes :
 
-- Les processus de prises de décisions nes peuvent être uniforme.
-  La méthode employer peut ne pas être la même pour l'achat d'un
-  local que pour l'heure d'une réunion ou l'apprbation d'un nouveau
-  rhytme scolaire.
+- Le processus décisionnel employer pour l'heure d'une réunion,
+  l'achat d'un local ou l'approbation d'un nouveau programme
+  scolaire, sera très certainement déférent.
 
 Proposition :
 
