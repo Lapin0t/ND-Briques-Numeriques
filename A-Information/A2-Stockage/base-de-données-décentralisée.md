@@ -11,10 +11,10 @@ Protocole désentralisé
   des données dynamique.
   <br/>eg: Conflit d'écriture sur une base de données
   <br/>eg: Génération de page dynamic comme sur serveur centraliser.
-  voir [objectif 2.1 du CDF]()
+  voir [objectif 2.1 du CDF](../../CDF.md)
 - Si les client arrête d'utiliser des données c'elle ci sont
   voué à disparaitres
-  <br/>voir [objectif 2.2 du CDF]()
+  <br/>voir [objectif 2.2 du CDF](../../CDF.md)
 
 ## Solutions
 
