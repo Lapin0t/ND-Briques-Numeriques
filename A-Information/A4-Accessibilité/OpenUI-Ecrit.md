@@ -2,6 +2,24 @@
 Proposition pour le formatage des données de l'élément `<Ecrit>`
 ===
 
+Le format MD semble bien adapté pour la description
+d'articles mais il deviens limiter dans certain cas.
+
+## Propostions d'améliorations :
+
+- Supprimer les balises HTML eg `<div style="...">`.
+
+- Ajouter la possibilité de disposition par FlexBox. par exemple:
+
+- Les alignement de texte a améliorer eg. left, center, right
+
+- Permettre de gérer les marge
+
+- Simplifier les tablea
+
+- Permettre des composants plus évoluer  \
+  eg. Accordéon, Tabs, Gallery, Map Graph, ...
+
 ## Le formatage des données
 
 > Le formatage propsé ci dessous n'as pas pour ocation à être utiliser par

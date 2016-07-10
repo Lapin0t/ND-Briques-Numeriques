@@ -89,21 +89,6 @@ Le formatage de ces données a pour obligation d'être légé. rapidement serial
 #### Proposition :
 
 ###### D'un poit de vu thecnique :
-Le format MD semble bien adapté mais il deviens limiter dans certain cas.
 
-###### Voici des idées de propostions d'améliorations :
-
-- Supprimer les balises HTML eg `<div style="...">`.
-
-- Ajouter la possibilité de disposition par FlexBox. par exemple:
-
-- Les alignement de texte a améliorer eg. left, center, right
-
-- Permettre de gérer les marge
-
-- Simplifier les tablea
-
-- Permettre des composants plus évoluer  \
-  eg. Accordéon, Tabs, Gallery, Map Graph, ...
-
-Pour plus de détail voir : [poposition de formatage de l'élément Ecrit](OpenUI-Ecrit.md)
+Le format MD semble bien adapté pour la description d'articles mais il deviens limiter dans certain cas.
+Pour plus de détail voir la poposition: [formatage de l'élément Ecrit](OpenUI-Ecrit.md)
