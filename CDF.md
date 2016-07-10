@@ -25,27 +25,27 @@ En somme ceci est une nouvelle synthése du pré-requis... \
 
 ---
 
-### L'information
+### A: L'information
 
 > L'information est un sens large. Il peut y avoir Des documentaire
 > et tutoriel, des post (tweeter, facebook), des annonces et evenements,
 > etc...
 
-1) Sa creation
-   1) Tous le monde peut créer de l'informations
+1. Sa creation
+   1. Tous le monde peut créer de l'informations
 
-2) Son stockage ([base de données décentralisée](Information/Stockage/base-de-données-décentralisée.md))
-   1) Décentraliser le stockage des données. 
-   2) La mémoire. Conservé et réutiler l'information.
+2. Son stockage ([base de données décentralisée](A-Information/A2-Stockage/base-de-données-décentralisée.md))
+   1. Décentraliser le stockage des données. 
+   2. La mémoire. Conservé et réutiler l'information.
 
-3) Son rangement
-   1) Replacer l'information dans sont contexte
-   2) Organisation & Tris personalisable \
+3. Son rangement
+   1. Replacer l'information dans sont contexte
+   2. Organisation & Tris personalisable \
       [voir les types de données]()
 
-4) Son accessibilité ([openQuery](), [openUi]())
-   1) Centraliser l'accés aux informations
-   2) Toute personnes peut y acceder et repliquer l'information.
+4. Son accessibilité ([openQuery](), [openUi]())
+   1. Centraliser l'accés aux informations
+   2. Toute personnes peut y acceder et repliquer l'information.
 
 ---
 
