@@ -19,7 +19,7 @@ Cahier des charges
    2. Organisation & Tris personalisable \
       [voir les types de données]()
 
-4. Son accessibilité ([openQuery](), [openUi]())
+4. Son accessibilité
    1. Centraliser l'accés aux informations \
    voir [openQuery](A-Information/A4-Accessibilité/OpenQuery.md)
    et [openUi](A-Information/A4-Accessibilité/OpenUI.md)
