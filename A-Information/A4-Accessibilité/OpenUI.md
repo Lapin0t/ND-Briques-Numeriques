@@ -60,14 +60,14 @@ Les schemats UI prédefinit :
 
 L'élément écrit est le seul a avoir une représentation dans la base de données. \
 Mais pourquoi !?
-1) Car c'est a l'utilisateur ou organisation de décider de la présentation
+1. Car c'est a l'utilisateur ou organisation de décider de la présentation
 souhaitez. Chacun doit être libre de mettre en avant ou non un artice sur
 ca page personnel.
-2) Les page de présentation doivent pouvoir évolué celons le contexte
+2. Les page de présentation doivent pouvoir évolué celons le contexte
 et contrainte du moment.
-3) En revanche les serveur ne fournissant que des données et
+3. En revanche les serveur ne fournissant que des données et
 pour des raison de sécurité aucune intégration de script ne doit être fait
-4) De même l'attention est porté uniquement sur la disposition et non sur le
+4. De même l'attention est porté uniquement sur la disposition et non sur le
 style.
 
 
