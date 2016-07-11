@@ -70,6 +70,8 @@ Les schemats UI prédefinit :
 <Debat>
 ```
 
+---
+
 ## L'élément `<nd-discussion>`
 
 L'élément Forum doit offrir les fonctionnalité
@@ -89,6 +91,8 @@ public commenter(Commentaire, Ecrit) // Envoie un commentaire.
 ```ts
 public quandCommentaire(Commentaire) //Fonction de rappel. Surviens lors d'un nouveau message
 ```
+
+---
 
 ## L'élément `<nd-vote>`
 
@@ -111,6 +115,7 @@ public voter(avis) // Envoie son vote.
 public quandChangementStatistique(statistique) //Fonction de rappel. Surviens lors d'un changement de statistique
 ```
 
+---
 
 ## L'élément `<nd-ecrit>`
 
@@ -141,6 +146,8 @@ interface EcritConvertisseur <FormatSortie> {
 
 > Voir la poposition: [formatage de l'élément Ecrit](OpenUI-Ecrit.md)
 
+---
+
 ## Liens entre APIs
 
 Cette API est une retranscription de objets de l'openData.
@@ -151,6 +158,8 @@ De même elle est extrêment lié au protocole de communication.
 Ces forte contrainte justifit ça présence. Elle permet, aux yeux
 des dévellopeur UX de paraitre interopérable...
 
+---
+
 ## Outils
 
 - React.js
@@ -158,6 +167,14 @@ des dévellopeur UX de paraitre interopérable...
 - WebComponent
 - Knockout.js
 
+---
+
 ## A faire
 
 [x] Definir les liens avec les autres API
+[ ] Créer des sénarios d'utilisation
+[ ] Implémentation React.js
+[ ] Implémentation Angular.js
+[ ] ~~Implementation .Net WPF~~
+
+---
