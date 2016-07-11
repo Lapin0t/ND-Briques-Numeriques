@@ -163,6 +163,7 @@ des dévellopeur UX de paraitre interopérable...
 ## Outils
 
 - React.js
+- Angular.js
 - Polymer
 - WebComponent
 - Knockout.js
@@ -173,8 +174,10 @@ des dévellopeur UX de paraitre interopérable...
 
 - [x] Definir les liens avec les autres API
 - [ ] Créer des sénarios d'utilisation
-- [ ] Implémentation React.js
-- [ ] Implémentation Angular.js
+- [ ] Implémentation pc (eg. React, Angular)
+- [ ] Implémentation pour Android
+- [ ] Implémentation pour iOS
+- [ ] Implémentation spécifique IoT (eg. Raspberry)
 - [ ] ~~Implementation .Net WPF~~
 
 ---
