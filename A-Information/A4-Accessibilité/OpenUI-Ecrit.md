@@ -2,10 +2,16 @@
 Proposition pour le formatage des données de l'élément `<Ecrit>`
 ===
 
+## Contraintes :
+
+Le formatage de ces données a pour obligation d'être légé. rapidement serialisable et convertissable
+
+## Propostions:
+
 Le format MD semble bien adapté pour la description
 d'articles mais il deviens limiter dans certain cas.
 
-## Propostions d'améliorations :
+###### améliorations :
 
 - Supprimer les balises HTML eg `<div style="...">`.
 

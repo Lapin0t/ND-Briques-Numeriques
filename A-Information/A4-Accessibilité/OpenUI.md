@@ -68,17 +68,16 @@ Les schemats UI prédefinit :
 <Groupe>
 <Messagerie>
 <Debat>
-<Vote>
 ```
 
-## L'élément `<nd-forum>`
+## L'élément `<nd-discussion>`
 
 L'élément Forum doit offrir les fonctionnalité
 d'accés aux forum
 
 ###### Les attributs:
 ```ts
-public get fil: UID // Identifiant du fil de discution
+public get uid: UID // Identifiant du fil de discussion
 ```
 
 ###### Les fonctions:
@@ -140,10 +139,25 @@ interface EcritConvertisseur <FormatSortie> {
 
 ### Le formatage
 
-#### Contraintes :
-Le formatage de ces données a pour obligation d'être légé. rapidement serialisable et convertissable
+> Voir la poposition: [formatage de l'élément Ecrit](OpenUI-Ecrit.md)
 
-#### Proposition :
+## Liens entre APIs
 
-Le format MD semble bien adapté pour la description d'articles mais il deviens limiter dans certain cas.
-Pour plus de détail voir la poposition: [formatage de l'élément Ecrit](OpenUI-Ecrit.md)
+Cette API est une retranscription de objets de l'openData.
+Elle est donc absolument pas intéropérable.
+
+De même elle est extrêment lié au protocole de communication.
+
+Ces forte contrainte justifit ça présence. Elle permet, aux yeux
+des dévellopeur UX de paraitre interopérable...
+
+## Outils
+
+- React.js
+- Polymer
+- WebComponent
+- Knockout.js
+
+## A faire
+
+[x] Definir les liens avec les autres API
