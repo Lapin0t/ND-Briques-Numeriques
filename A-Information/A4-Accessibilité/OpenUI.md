@@ -123,14 +123,14 @@ L'élément écrit est le seul a avoir une représentation dans la base de donn�
 Mais pourquoi !?
 
 1. Car c'est a l'utilisateur ou organisation de décider de la présentation
-souhaitez. Chacun doit être libre de mettre en avant ou non un artice sur
-ca page personnel.
+   souhaitez. Chacun doit être libre de mettre en avant ou non un artice sur
+   ca page personnel.
 2. Les page de présentation doivent pouvoir évolué celons le contexte
-et contrainte du moment.
+   et contrainte du moment.
 3. En revanche les serveur ne fournissant que des données et
-pour des raison de sécurité aucune intégration de script ne doit être fait
+   pour des raison de sécurité aucune intégration de script ne doit être fait
 4. De même l'attention est porté uniquement sur la disposition et non sur le
-style.
+   style.
 
 
 ```ts
@@ -179,5 +179,11 @@ des dévellopeur UX de paraitre interopérable...
 - [ ] Implémentation pour iOS
 - [ ] Implémentation spécifique IoT (eg. Raspberry)
 - [ ] ~~Implementation .Net WPF~~
+
+# Conclusion
+
+Vue le nombre d'implementation et la dépendence forte
+aux autres API, il vas faloir penssé a une génération
+de code automatique...
 
 ---
