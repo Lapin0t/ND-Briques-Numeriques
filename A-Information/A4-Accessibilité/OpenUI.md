@@ -71,31 +71,49 @@ Les schemats UI prédefinit :
 <Vote>
 ```
 
-## L'élément `<Forum>`
+## L'élément `<nd-forum>`
 
 L'élément Forum doit offrir les fonctionnalité
 d'accés aux forum
 
-###### Les propriétés:
-
-Nom       | Type | Description 
---------- | ---- | -----------------------------
-fil       | UID  | Identifiant du fil de discution
+###### Les attributs:
+```ts
+public get fil: UID // Identifiant du fil de discution
+```
 
 ###### Les fonctions:
-
-Portée | Nom       | Description 
------- | --------- | ----------------------------
-public | comment(eComment, eEcrit) | Envoie un commentaire. 
+```ts
+public commenter(Commentaire, Ecrit) // Envoie un commentaire. 
+```
 
 ###### Les Evénements :
+```ts
+public quandCommentaire(Commentaire) //Fonction de rappel. Surviens lors d'un nouveau message
+```
 
-Portée | Nom       | Description 
------- | --------- | ----------------------------
-public | onNewMessage | Fonction de rappel. Surviens lors d'un nouveau message
+## L'élément `<nd-vote>`
+
+L'élément permetterais de visualiser et/ou
+enregistrer son vote que ce soit pour post de forum ou
+pour la délibaration d'une loi. 
+
+###### Les propriétés:
+```ts
+public get statistiques // Retourne les statistique de vote
+```
+
+###### Les fonctions:
+```ts
+public voter(avis) // Envoie son vote. 
+```
+
+###### Les Evénements :
+```ts
+public quandChangementStatistique(statistique) //Fonction de rappel. Surviens lors d'un changement de statistique
+```
 
 
-## L'élément `<Ecrit>`
+## L'élément `<nd-ecrit>`
 
 L'élément écrit est le seul a avoir une représentation dans la base de données. \
 Mais pourquoi !?
