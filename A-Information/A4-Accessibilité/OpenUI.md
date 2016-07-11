@@ -3,8 +3,24 @@ l'OpenUI
 <small>*les briques d'interface utilisateur*</small>
 ===
 
-Voivi la liste des briques misent à disposition des utilisateurs:
-Je m'inspire de l'interface de JavaFx
+## L'objectif
+
+> **Note:** voir [objectif 4.1](../../CDF.md)
+
+Proposer aux développeur des composants génériques web
+préconfigurer pour communiquer avec les données et favoriser
+ainsi la l'accés centralisé des données
+
+## Prposition
+
+- L'élément ```<forum>``` doit offrir les fonctionnalité
+ d'accés aux forum
+
+- L'élément ```<vote>``` permetterais de visualiser et/ou
+  enregistrer son vote que ce soit pour post de forum ou
+  pour la délibaration d'une loi.
+
+- L'élément ```<graph>```
 
 ```typescript
 interface Element
@@ -50,11 +66,28 @@ Les schemats UI prédefinit :
 ```
 <Citoyen>
 <Groupe>
-<Forum>
 <Messagerie>
 <Debat>
 <Vote>
 ```
+
+## L'élément `<Forum>`
+
+L'élément Forum doit offrir les fonctionnalité
+d'accés aux forum
+
+###### Les propriétés:
+
+Nom       | Type | Description 
+--------- | ---- | -----------------------------
+fil       | UID  | Identifiant du fil de discution
+
+###### Les fonctions:
+
+Nom       | Description 
+--------- | ----------------------------
+onNewMessage | Fonction de rappel. Surviens lors d'un nouveau message
+
 
 ## L'élément `<Ecrit>`
 
@@ -87,8 +120,6 @@ interface EcritConvertisseur <FormatSortie> {
 Le formatage de ces données a pour obligation d'être légé. rapidement serialisable et convertissable
 
 #### Proposition :
-
-###### D'un poit de vu thecnique :
 
 Le format MD semble bien adapté pour la description d'articles mais il deviens limiter dans certain cas.
 Pour plus de détail voir la poposition: [formatage de l'élément Ecrit](OpenUI-Ecrit.md)
