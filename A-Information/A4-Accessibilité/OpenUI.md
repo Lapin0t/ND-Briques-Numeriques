@@ -84,9 +84,15 @@ fil       | UID  | Identifiant du fil de discution
 
 ###### Les fonctions:
 
-Nom       | Description 
---------- | ----------------------------
-onNewMessage | Fonction de rappel. Surviens lors d'un nouveau message
+Portée | Nom       | Description 
+------ | --------- | ----------------------------
+public | comment(eComment, eEcrit) | Envoie un commentaire. 
+
+###### Les Evénements :
+
+Portée | Nom       | Description 
+------ | --------- | ----------------------------
+public | onNewMessage | Fonction de rappel. Surviens lors d'un nouveau message
 
 
 ## L'élément `<Ecrit>`
