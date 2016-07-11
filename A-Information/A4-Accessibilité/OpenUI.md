@@ -171,10 +171,10 @@ des dévellopeur UX de paraitre interopérable...
 
 ## A faire
 
-[x] Definir les liens avec les autres API
-[ ] Créer des sénarios d'utilisation
-[ ] Implémentation React.js
-[ ] Implémentation Angular.js
-[ ] ~~Implementation .Net WPF~~
+- [x] Definir les liens avec les autres API
+- [ ] Créer des sénarios d'utilisation
+- [ ] Implémentation React.js
+- [ ] Implémentation Angular.js
+- [ ] ~~Implementation .Net WPF~~
 
 ---
