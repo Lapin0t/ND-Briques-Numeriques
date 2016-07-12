@@ -13,6 +13,7 @@ Le réseau est la brique base des autres.
 ## Contraintes
 
 Admettre les avantages du réel
+
 1. Le réel implique les oubliés du numérique.
 2. Le réel répond concrètement (nourritures, actions).
 3. Le réel émane une énergie local vive
