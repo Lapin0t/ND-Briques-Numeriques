@@ -26,4 +26,4 @@ il y a plusieurs méthode qui tente de répondre a ces problémes:
 - voir les travaux de Lapinot.dev.lyon
   ? pas compris encore :) \
 [toile-de de confiance Duniter](https://fr.duniter.org/introduction-a-la-toile-de-confiance/)
-
+- 
