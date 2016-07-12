@@ -21,3 +21,5 @@ Réseau
   - La Box Internet Debout peut elle aider ?
 
 ## Propositions
+
+- Utiliser la base de comminecter comme bique.
