@@ -22,4 +22,4 @@ Réseau
 
 ## Propositions
 
-- Utiliser la base de comminecter comme bique.
+- Utiliser la base de comminecter comme bique applicative.
