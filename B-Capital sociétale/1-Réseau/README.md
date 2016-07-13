@@ -5,7 +5,6 @@ Réseau
 ## Actuellement
 
 - Nous utilisons Telegram, RocketChat, Tweeter, Facebook, ...
-- Il y a un groupe de réflexion [Chat Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
 
 ## Objectifs
 
