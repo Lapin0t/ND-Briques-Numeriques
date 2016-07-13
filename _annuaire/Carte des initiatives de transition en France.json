@@ -1,0 +1,1164 @@
+{
+   "Document": {
+      "name": "Carte des initiatives de transition en France",
+      "description": null,
+      "Folder": [
+         {
+            "name": "Initiatives Locales",
+            "Placemark": [
+               {
+                  "name": "Aix en Provence",
+                  "description": "http://www.paysdaix.transitionfrance.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.450249,43.5259,0.0"
+                  }
+               },
+               {
+                  "name": "Albi",
+                  "description": "Albi en transition<br>https://sites.google.com/site/albientransition/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.147141,43.92411,0.0"
+                  }
+               },
+               {
+                  "name": "Pays d'Allevard",
+                  "description": "Transition au pays d'Allevard<br>http://transition-pays-allevard.blogspot.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.0538101,45.3781965,0.0"
+                  }
+               },
+               {
+                  "name": "Annemasse",
+                  "description": "Annemasse agglo en transition<br>https://www.facebook.com/VilleEnTransitionAnnemasseAgglo",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.2361145,46.1946856,0.0"
+                  }
+               },
+               {
+                  "name": "Pays d'Arles",
+                  "description": "https://arlestransition.wordpress.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.630050700000001,43.6748248,0.0"
+                  }
+               },
+               {
+                  "name": "Auch",
+                  "description": "http://www.auch.transitionfrance.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "0.586396,43.6456383,0.0"
+                  }
+               },
+               {
+                  "name": "Auterive",
+                  "description": "http://auteriveentransition.blogspot.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.4762878,43.3518959,0.0"
+                  }
+               },
+               {
+                  "name": "Avignon",
+                  "description": "http://creavignon.fr/avignon-en-transition-agir-pour-l-avenir",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.812698,43.948586,0.0"
+                  }
+               },
+               {
+                  "name": "Barbezieux en Transition",
+                  "description": "http://barbezieuxentransition.over-blog.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.156941,45.472651,0.0"
+                  }
+               },
+               {
+                  "name": "Bayonne",
+                  "description": "http://www.bizimugi.eu/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-1.472855,43.491911,0.0"
+                  }
+               },
+               {
+                  "name": "Beauvais",
+                  "description": "Beauvais en transition<br>https://www.facebook.com/pages/Beauvais-En-Transition/1416241048690033",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.0836258,49.4283934,0.0"
+                  }
+               },
+               {
+                  "name": "Bergeraquoi ? En Transition",
+                  "description": "http://bergeracoisentransition.over-blog.com/2015/01/partager-concretement.html",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "0.48339840000000006,44.8480803,0.0"
+                  }
+               },
+               {
+                  "name": "Beynes en Transition",
+                  "description": "http://beynesentransition.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.876774,48.852291,0.0"
+                  }
+               },
+               {
+                  "name": "Bordeaux",
+                  "description": "Bordeaux en transition<br>http://www.bordeaux-transition.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.7535935,44.8385865,0.0"
+                  }
+               },
+               {
+                  "name": "Bourg-en-Bresse",
+                  "description": "http://www.bourg-en-bresse.transitionfrance.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.220737,46.202528,0.0"
+                  }
+               },
+               {
+                  "name": "Brest",
+                  "description": "Collectif transition citoyenne en Pays de Brest<br>http://transitioncitoyennebrest.info/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-4.4890516,48.3873446,0.0"
+                  }
+               },
+               {
+                  "name": "Briançon",
+                  "description": "VIGIR ! vigi-résilience<br>http://www.vigir.sitew.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.618061,44.880657,0.0"
+                  }
+               },
+               {
+                  "name": "Pays de Broons et de Caulnes",
+                  "description": "www.dugentrans.wordpress.com<br>duguesclin-en-transition@googlegroups.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-2.329102,48.283193,0.0"
+                  }
+               },
+               {
+                  "name": "Caen",
+                  "description": "http://www.ardes.org/caen-en-transition<br>transtioncaen14@googlegroups.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.362549,49.17093,0.0"
+                  }
+               },
+               {
+                  "name": "Céret",
+                  "description": "Céret en transition<br>https://ceretentransition.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.7486468,42.453708,0.0"
+                  }
+               },
+               {
+                  "name": "Cergy-Pontoise",
+                  "description": "Cergy-Pontoise en transition<br>https://cergypontoisetransition.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.0716095,49.0392183,0.0"
+                  }
+               },
+               {
+                  "name": "Chambéry",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "5.920429,45.564304,0.0"
+                  }
+               },
+               {
+                  "name": "Champigny en Transition",
+                  "description": "Collectif créé en octobre 2015. Mail : contact@champigny-en-transition.net. Site : http://champigny-en-transition.net",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.5140667,48.816924400000005,0.0"
+                  }
+               },
+               {
+                  "name": "Châteauneuf-sur-Loire",
+                  "description": "transition.csl@gmail.com  // http://www.chateauneuf-sur-loire.transitionfrance.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.221298,47.865235,0.0"
+                  }
+               },
+               {
+                  "name": "Chaville",
+                  "description": "Chaville en transition<br>http://www.chavilleentransition.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.1903992,48.8090115,0.0"
+                  }
+               },
+               {
+                  "name": "Conflent",
+                  "description": "Conflent en transition  <br>http://www.conflent-transition.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.4211121,42.613749,0.0"
+                  }
+               },
+               {
+                  "name": "Créteil",
+                  "description": "http://creteilentransition.over-blog.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.454586,48.7903546,0.0"
+                  }
+               },
+               {
+                  "name": "Dax",
+                  "description": "http://www.gascogne-en-transition.net/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-1.0464478,43.7105716,0.0"
+                  }
+               },
+               {
+                  "name": "Déodatie",
+                  "description": "http://www.deodatie.transitionfrance.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.976318,48.312428,0.0"
+                  }
+               },
+               {
+                  "name": "Dijon",
+                  "description": "Transition Dijon<br>http://transition-dijon.over-blog.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.044441,47.321952,0.0"
+                  }
+               },
+               {
+                  "name": "Epinal",
+                  "description": "http://epinal-en-transition.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.446228,48.178907,0.0"
+                  }
+               },
+               {
+                  "name": "Fernay-Voltaire",
+                  "description": "http://eco-pratique.org/transition/<br>transition@eco-pratique.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.1092567,46.2567964,0.0"
+                  }
+               },
+               {
+                  "name": "Fontainebleau",
+                  "description": "FET - Fontainebleau En Transition<br>Site internet : http://www.terre2mains.org/FET/Fontainebleau_En_Transition/FET_-_Fontainebleau_En_Transition.html<br>contact@terre2mains.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.69886,48.404135,0.0"
+                  }
+               },
+               {
+                  "name": "Fontenay-sous-Bois",
+                  "description": "http://fontenayentransition.overblog.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.4738121,48.8516137,0.0"
+                  }
+               },
+               {
+                  "name": "Fraisses",
+                  "description": "http://loireentransition.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.258146,45.38531,0.0"
+                  }
+               },
+               {
+                  "name": "Frontignan",
+                  "description": "Site Internet : http://frontignantransition.forum-pro.fr<br>Contact : frontignantransition@yahoo.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "3.7538909999999994,43.442949,0.0"
+                  }
+               },
+               {
+                  "name": "Genève",
+                  "description": "Genève en transition<br>https://geneveentransition.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.1453056,46.2015771,0.0"
+                  }
+               },
+               {
+                  "name": "Gironde en transition",
+                  "description": "http://www.gironde-en-transition.org/<br>pascalbourgois@aol.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.577469,44.842725,0.0"
+                  }
+               },
+               {
+                  "name": "Givet en Transition",
+                  "description": "https://www.facebook.com/givet.transition",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.8454857,50.13653480000001,0.0"
+                  }
+               },
+               {
+                  "name": "Grande Synthe",
+                  "description": "https://www.ville-grande-synthe.fr/ville-durable/vers-la-transition/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.306099,51.012891,0.0"
+                  }
+               },
+               {
+                  "name": "Grenoble",
+                  "description": "Grenoble en Transition<br>grenoble@transitionfrance.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.726795,45.187844,0.0"
+                  }
+               },
+               {
+                  "name": "Issy en transition",
+                  "description": "www.issyentransition.fr <br>Nous nous appelons Laure, Salim, Anaïd, Sébastien, Floraine, Antoine, Camille, Gabriel, Françoise, François, Julien, nous habitons dans les quartiers de Mairie d'Issy, La Ferme, Corentin Celton, et l'équipe grandit de jour en jour : rejoignez-nous !<br><br>Vous pouvez aussi nous suivre sur Facebook : <br>www.facebook.com/issyentransition",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.2733974,48.824045,0.0"
+                  }
+               },
+               {
+                  "name": "Josselin",
+                  "description": "Josselin en transition<br>http://josselinentransition.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-2.5554371,47.9533749,0.0"
+                  }
+               },
+               {
+                  "name": "La Réole",
+                  "description": "http://www.gironde-en-transition.org/Le-reolais/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.037079,44.582154,0.0"
+                  }
+               },
+               {
+                  "name": "La Roche sur Yon",
+                  "description": "La Roche en transition<br>http://www.larocheentransition.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-1.4206696,46.6779456,0.0"
+                  }
+               },
+               {
+                  "name": "La Rochelle",
+                  "description": "http://larochelleentransition.over-blog.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-1.149101,46.160453,0.0"
+                  }
+               },
+               {
+                  "name": "Le Pré Saint-Gervais",
+                  "description": "Le Pré en transition<br>http://lepreentransition.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.4027336,48.8835063,0.0"
+                  }
+               },
+               {
+                  "name": "Levallois",
+                  "description": "http://levalloisentransition.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.2841263,48.8936154,0.0"
+                  }
+               },
+               {
+                  "name": "Libournais en transition",
+                  "description": "pascalbourgois@aol.com<br>http://libournaisentransition.6mablog.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.225906,44.905982,0.0"
+                  }
+               },
+               {
+                  "name": "Linas",
+                  "description": "http://lescargotdelinas.blogspot.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.2673035,48.6310934,0.0"
+                  }
+               },
+               {
+                  "name": "Pays Lindois",
+                  "description": "Pays Lindois En Transition, Coopérative Intégrale<br>https://transitionlalinde.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "0.7408905,44.83566510000001,0.0"
+                  }
+               },
+               {
+                  "name": "L'Haÿ-les-Roses",
+                  "description": "L'Haÿ-les-Roses en transition<br>lhay.les.roses.en.transition@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.330389,48.7586784,0.0"
+                  }
+               },
+               {
+                  "name": "Loire en Transition",
+                  "description": "loireentransition@gmail.com<br>http://loireentransition.com/<br>tel: 06 28 06 18 19<br><br>GROUPE RESSOURCES d’informations et de divers outils susceptibles d’aider, accompagner et encourager au démarrage d’initiatives de transition locales, dans le département de la Loire.",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.284668,45.530643,0.0"
+                  }
+               },
+               {
+                  "name": "Lot en transition",
+                  "description": "www.transitionaupays.eu",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.6527168,44.5560912,0.0"
+                  }
+               },
+               {
+                  "name": "Lozère",
+                  "description": "https://lozereentransition.wordpress.com<br>lozereentransition@gmail.com<br>floractransition@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "3.4414673,44.4416242,0.0"
+                  }
+               },
+               {
+                  "name": "Lyon Croix-Rousse",
+                  "description": "Croix-Rousse en transition<br>jordan.belgrave à gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.8275473,45.779736,0.0"
+                  }
+               },
+               {
+                  "name": "Lyon 3ème",
+                  "description": "Pour nous contacter :<br>troisieme.en.transition@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.8526384,45.7589019,0.0"
+                  }
+               },
+               {
+                  "name": "Lyon 7eme",
+                  "description": "transitionlyon7@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.840679,45.730569,0.0"
+                  }
+               },
+               {
+                  "name": "Malakoff",
+                  "description": "Malakoff en transition<br>http://malakoffentransition.free.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.297387,48.817122,0.0"
+                  }
+               },
+               {
+                  "name": "Mantois",
+                  "description": "Le Mantois en Transition <br>http://transitionmantes.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.7146397,48.9868919,0.0"
+                  }
+               },
+               {
+                  "name": "Boucles de la Marne en Transition",
+                  "description": "Josée RUDIER Pour Boucles de la Marne Territoire en Transition  Mail : tntbouclesdelamarne@gmail.com www.facebook.com/TNTBouclesDeLaMarneSite: Site : http://bouclesdelamarneentransition.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.4928665,48.840429900000004,0.0"
+                  }
+               },
+               {
+                  "name": "Marseille - Le plateau en Transition",
+                  "description": "le collectif Plateau en Transition. <br>Le quartier du Plateau regroupe La Plaine, le Cours-Julien et Notre-Dame-du-Mont, à cheval sur les 5e, 6e et 1er arrondissement de Marseille. .<br><br>un blog : http://plateauentransition-marseille.alter-actifs.org/<br><br>un mail : <br>plateauentransition@marsnet.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.375748,43.297698,0.0"
+                  }
+               },
+               {
+                  "name": "Maurienne",
+                  "description": "http://www.maurienne.transitionfrance.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.393356,45.266188,0.0"
+                  }
+               },
+               {
+                  "name": "Mayenne",
+                  "description": "Mayenne en Transition<br><mayenne.transition@gmail.com><br>https://mayennetransition.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.620384,48.304436,0.0"
+                  }
+               },
+               {
+                  "name": "Méru",
+                  "description": "Sablons en transition<br>http://sablonsentransition.eklablog.com/<br>sablons.transition@free.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.1327209,49.2357584,0.0"
+                  }
+               },
+               {
+                  "name": "Montreuil",
+                  "description": "Montreuil en transition<br>http://montreuilentransition.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.4365616,48.8601975,0.0"
+                  }
+               },
+               {
+                  "name": "Pays Mornantais",
+                  "description": "Transition en pays Mornantais<br>transitionpaysmornantais@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.6722789,45.6180001,0.0"
+                  }
+               },
+               {
+                  "name": "Morvan en transition",
+                  "description": "Facebook : http://www.facebook.com/groups/morvan.alternatives/<br>Liste d'infos : http://listes.effraie.org/mailman/listinfo/morvanalternatives<br>Contact : ben@avenirclimat.info",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.294281,46.95284,0.0"
+                  }
+               },
+               {
+                  "name": "Vallée de Munster",
+                  "description": "Vallée de Munster en transition<br>http://munstertransition.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "7.1357489,48.0411929,0.0"
+                  }
+               },
+               {
+                  "name": "Nancy",
+                  "description": "www.nancy-en-transition.net",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.184359,48.6913,0.0"
+                  }
+               },
+               {
+                  "name": "Nanterre",
+                  "description": "Nanterre en transition<br>http://nanterreentransition.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.2140884,48.8915838,0.0"
+                  }
+               },
+               {
+                  "name": "Nantes",
+                  "description": "Nantes en transition<br>http://nantesentransition.net/netblog/net/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-1.5765423,47.2318405,0.0"
+                  }
+               },
+               {
+                  "name": "Oloron Sainte-Marie",
+                  "description": "Oloron en transition<br>site web: www.oloronentransition.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.6118328,43.1957236,0.0"
+                  }
+               },
+               {
+                  "name": "Orléans en transition",
+                  "description": "http://orleansentransition.net/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.8247604,47.901153,0.0"
+                  }
+               },
+               {
+                  "name": "Parempuyre",
+                  "description": "http://www.gironde-en-transition.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.604248,44.936613,0.0"
+                  }
+               },
+               {
+                  "name": "Paris IDF",
+                  "description": "Ce collectif relie et soutient les groupes locaux de transitionneurs franciliens http://transitionparisidf.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.3569053,48.8590505,0.0"
+                  }
+               },
+               {
+                  "name": "Paris, 12e Arrondissement",
+                  "description": "Transitionparis12<br>contact arobase transitionparis12.eu http://transitionparis12.eu",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.389526,48.840204,0.0"
+                  }
+               },
+               {
+                  "name": "Paris, 15e Arrondissement",
+                  "description": "contact : paris15entransition@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.300863,48.841164,0.0"
+                  }
+               },
+               {
+                  "name": "Paris, 18e Arrondissement",
+                  "description": "Dans le cadre de quartier en transition et de transition Paris/IDF, nous allons fêter la naissance de la coopérative alimentaire et solidaire : L'INDEPENDANTE<br>Une coopérative alimentaire auto-gérée qui s'inscrit dans la volonté d'établir des circuits courts entre les producteurs et les citoyens. Une épicerie en forme de GASE (Rochefort en Terre) qui se veut complémentaire des AMAPs et qui cherchera à sensibiliser grâce à des débats, projections, concerts ...<br>contact : coop.lindependante@orange.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.345023,48.892176,0.0"
+                  }
+               },
+               {
+                  "name": "Paris 18ème, Quartiers en Transition",
+                  "description": "A Paris, dans nos arrondissements, Quartiers en transition se mobilise autour des enjeux que représentent le changement climatique et le pic pétrolier en :<br> -développant une autonomie locale dans certains secteurs ;<br> -renforçant l’économie de proximité ;<br> -améliorant la santé et l’environnement ;<br> -anticipant le pic pétrolier et les futurs choix énergétiques …<br>http://quartiersentransition.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.347255,48.89039900000001,0.0"
+                  }
+               },
+               {
+                  "name": "Paris 20e",
+                  "description": "Transition Paris 20<br>http://transitionparis20.org/<br>contact@transitionparis20.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.4002552,48.8551716,0.0"
+                  }
+               },
+               {
+                  "name": "Paris, Amap des Hauts de Belleville + compostage collectif",
+                  "description": "Contact : amapbelleville@gmail.com<br>Villa des Hauts de Belleville (compostage) : https://sites.google.com/site/villadeshautsdebelleville/defense-de-l-environnement/composteurs-gratuits<br><br>Amap https://sites.google.com/site/amaphautbelleville/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.383347,48.876909,0.0"
+                  }
+               },
+               {
+                  "name": "Plaisir",
+                  "description": "Plaisir en transition<br>https://plaisirentransition.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.9473267,48.8181678,0.0"
+                  }
+               },
+               {
+                  "name": "Plombières-les-Bains",
+                  "description": "Le Coteau de Plombières-Les-Bains en Transition - <br>contact:<br>le-coteau-de-plombieres-les-bains-en-transition@orange.fr <br>http://plombieresentransition.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.4564415,47.9637207,0.0"
+                  }
+               },
+               {
+                  "name": "Plougonvelin",
+                  "description": "Le collectif d'écocitoyens de Plougonvelin : Tamm ha tamm (Petit à petit en breton).http://www.tamm-ha-tamm.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-4.71837,48.340847,0.0"
+                  }
+               },
+               {
+                  "name": "Rambouillet",
+                  "description": "Rambouillet en transition<br>https://rambouilletentransition.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.8305968999999997,48.6440252,0.0"
+                  }
+               },
+               {
+                  "name": "Rives en Transition",
+                  "description": "verine@aliceadsl.fr<br>http://fr.wiserearth.org/group/VoironnaisEnTransition",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.504622,45.349974,0.0"
+                  }
+               },
+               {
+                  "name": "Romans-sur-Isère",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "5.054398,45.043812,0.0"
+                  }
+               },
+               {
+                  "name": "Roquefort-les-Pins",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "7.052536,43.665512,0.0"
+                  }
+               },
+               {
+                  "name": "Rouen",
+                  "description": "Rouen en transition<br>https://www.facebook.com/RouenEnTransition",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.1017227,49.441789400000005,0.0"
+                  }
+               },
+               {
+                  "name": "Roussay en Transition",
+                  "description": "Ouvrons les Yeux – Roussay vers la transition<br>http://ouvronslesyeux49.free.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-1.0641937,47.0901623,0.0"
+                  }
+               },
+               {
+                  "name": "Saint Antoine l'Abbaye",
+                  "description": "Saint Antoine en transition<br>http://saint-antoine-transition.eklablog.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.2170212,45.1745845,0.0"
+                  }
+               },
+               {
+                  "name": "Saint Julia",
+                  "description": "site web : http://stjuliaentransition.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.8981279,43.4901869,0.0"
+                  }
+               },
+               {
+                  "name": "Saint-Génis-Laval",
+                  "description": "L'Ecoclicot<br>http://lecoclicot.blogspot.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.7955322,45.6932309,0.0"
+                  }
+               },
+               {
+                  "name": "Saint-Macaire-en-Mauges et Saint-André-de-la-Marche",
+                  "description": "St Macaire-St André en Transition<br>contact : stmacairestandre.transition@gmail.com<br>site internet :<br>http://www.stmacairestandre.transitionfrance.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.9894560000000001,47.12341,0.0"
+                  }
+               },
+               {
+                  "name": "Saint Médard",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "-0.715141,44.894553,0.0"
+                  }
+               },
+               {
+                  "name": "Saint-Quentin-en-Yvelines",
+                  "description": "lien : http://sqyentransition.wordpress.com   contact : sqytransition@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.018824,48.771832,0.0"
+                  }
+               },
+               {
+                  "name": "Salies-de-Béarn",
+                  "description": "contact :saliesentransition@gmail.com ou www.salies-de-bearn.transitionfrance.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.9461973,43.4549128,0.0"
+                  }
+               },
+               {
+                  "name": "Pays de Salon-de-Provence",
+                  "description": "Pays salonais en transition<br>Site : http://transitionprovence.wordpress.com/<br>Contact : salontransition@gmail.com<br>Olivier : 06 20 19 33 40",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.0980758,43.6201139,0.0"
+                  }
+               },
+               {
+                  "name": "Seillans",
+                  "description": "Seillans en transition<br>https://www.facebook.com/seillans.entransition",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.6440162,43.6364109,0.0"
+                  }
+               },
+               {
+                  "name": "Semnoz",
+                  "description": "Collectif Transition Citoyenne Semnoz<br>http://transitioncitoyennesemnoz.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.1248779,45.914855,0.0"
+                  }
+               },
+               {
+                  "name": "Semur-en-Auxois",
+                  "description": "e-mail : semurentransition@gmail.com<br>site web : http://www.semur.transitionfrance.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.332561,47.489369,0.0"
+                  }
+               },
+               {
+                  "name": "Sens",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "3.2838820000000006,48.199964,0.0"
+                  }
+               },
+               {
+                  "name": "Sète",
+                  "description": "Sète en transition<br>http://seteentransition.org<br>courriel : sete.en.transition@gmail.com<br>téléphone : 09.50.79.86.31",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "3.6938716,43.4041992,0.0"
+                  }
+               },
+               {
+                  "name": "Strasbourg",
+                  "description": "L'association Eco-Quartier Strasbourg crée actuellement un groupe de transition.<br>http://www.ecoquartier-strasbourg.net/index.php/ville-en-transition.html",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "7.753258,48.570374,0.0"
+                  }
+               },
+               {
+                  "name": "Sucy-en-Brie",
+                  "description": "Association \"Sucy Environnement et Transition\"<br>Site Internet : http://www.set94.org<br>Nombre d'adhérents : 110<br>Date de création : Novembre 2009",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.5186054,48.7722991,0.0"
+                  }
+               },
+               {
+                  "name": "Sud Alsace",
+                  "description": "http://www.sud-alsace-transition.net",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "7.3223877,47.7393234,0.0"
+                  }
+               },
+               {
+                  "name": "Sud de Seine / CRAC",
+                  "description": "Actions de Transition reprises à Bagneux (92) <br>par le Collectif de Ressources Alternatives et Citoyennes<br>mail : crac.bagneux@gmail.co<br>téléphone : 06.83.61.44.45 (Juan et Agnès)",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.3112056,48.79123100000001,0.0"
+                  }
+               },
+               {
+                  "name": "Sundgau",
+                  "description": "Sundgau en transition<br>http://sundgau-en-transition.e-monsite.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "7.2447968,47.6212068,0.0"
+                  }
+               },
+               {
+                  "name": "Talence",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "-0.586052,44.802545,0.0"
+                  }
+               },
+               {
+                  "name": "Toulouse en Transition",
+                  "description": "http://www.toulouse.transitionfrance.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.4405823000000002,43.600284,0.0"
+                  }
+               },
+               {
+                  "name": "Tours",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "0.683899,47.394166,0.0"
+                  }
+               },
+               {
+                  "name": "Trièves",
+                  "description": "http://www.trieves.transitionfrance.fr/<br>http://aprespetrole.unblog.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.778809,44.809122,0.0"
+                  }
+               },
+               {
+                  "name": "Ungersheim",
+                  "description": "Ungersheim en transition<br>http://www.mairie-ungersheim.fr/village-en-transition/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "7.303934100000001,47.8776132,0.0"
+                  }
+               },
+               {
+                  "name": "Val de Saône",
+                  "description": "Val de Saône en transition<br>clicalter@netc.fr<br>http://clicalter.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.7826576,45.9624869,0.0"
+                  }
+               },
+               {
+                  "name": "Vendôme",
+                  "description": "Dos d'âne<br>http://dos-dane.jimdo.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.066875,47.7924,0.0"
+                  }
+               },
+               {
+                  "name": "Vidourle Vaunage",
+                  "description": "Transition Vidourle Vaunage<br>transitionvv @ free.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.0808553,43.7407918,0.0"
+                  }
+               },
+               {
+                  "name": "Vierzon",
+                  "description": "Vierzon en transition<br>Courriel : vierzonentransition@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.0637131,47.2232989,0.0"
+                  }
+               },
+               {
+                  "name": "Pays viganais",
+                  "description": "Transition en pays viganais<br>https://transitionviganaise.wordpress.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "3.6016873,43.9880673,0.0"
+                  }
+               },
+               {
+                  "name": "Villers-lès-Nancy",
+                  "description": "Villers en transition<br>https://www.facebook.com/Villers-En-Transition-897307110311338/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.1550903,48.6735065,0.0"
+                  }
+               },
+               {
+                  "name": "Villeurbanne",
+                  "description": "http://www.transition-villeurbanne.fr/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.889174,45.7718641,0.0"
+                  }
+               },
+               {
+                  "name": "Vallée de la Weiss",
+                  "description": "Pas à Pas, Vallée de la Weiss en transition<br>http://transition-pasapas.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "7.1616268,48.1267418,0.0"
+                  }
+               },
+               {
+                  "name": "Villages d'Yvelines en Transition",
+                  "description": "http://villages78entransition.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.89085,48.819185,0.0"
+                  }
+               },
+               {
+                  "name": "Contis, Ferme pédagogique",
+                  "description": "https://www.facebook.com/fermedecontis",
+                  "styleUrl": "#icon-960-62AF44",
+                  "Point": {
+                     "coordinates": "-1.277504,44.081358,0.0"
+                  }
+               },
+               {
+                  "name": "Naturo'Parc",
+                  "description": "Projet d'un Village autonome<br>http://naturoparc.wordpress.com/<br>Nous contactez : naturoparc@bbox.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "5.159883,45.626044,0.0"
+                  }
+               },
+               {
+                  "name": "Campagne en Transition",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "-1.4989474,47.439235,0.0"
+                  }
+               },
+               {
+                  "name": "vallée en transition",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "6.672821,45.916766,0.0"
+                  }
+               },
+               {
+                  "name": "Entre-deux-Mers bordelais en transition",
+                  "description": "http://lentredeuxmersentransition.weebly.com/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.3007647,44.7399792,0.0"
+                  }
+               },
+               {
+                  "name": "Nord-Bassin en Transition",
+                  "description": "stephane.basso@trotmaster.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-1.1000061,44.7467332,0.0"
+                  }
+               },
+               {
+                  "name": "On passe à l'acte !",
+                  "description": "Site de journalisme constructif qui valorise les initiatives citoyennes constructives. 500 initiatives en lignes ! www.onpassealacte.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "3.8594627,43.67271410000001,0.0"
+                  }
+               },
+               {
+                  "name": "Jardin Collectif Petit à Petit",
+                  "description": "jardincollectifpetitapetit@gmail.com                         jardincollectifpetitapetit.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "0.2913657,48.2628875,0.0"
+                  }
+               },
+               {
+                  "name": "Territoires en liens",
+                  "description": "Territoires en liens est une initiative de transition qui se situe sur les communautés d'agglomération de Sénart Val de Seine et du Val d'Yerres ce qui couvre les communes de Draveil, Vigneux-sur-Seine, Montgeron, Crosne, Yerres, Brunoy, Epinay-sous-Sénart, Boussy-Saint-Antoine et Quincy-sous-Sénart. Notre site web : http://www.territoiresenliens.org et notre email de contact : contact@territoiresenliens.org",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.4719238,48.7054629,0.0"
+                  }
+               },
+               {
+                  "name": "Les Lucioles",
+                  "description": "Ria d'Étel en transition https://luciolesriatransition.wordpress.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-3.2052183,47.6570341,0.0"
+                  }
+               },
+               {
+                  "name": "Equilibre Monnaie-Terre",
+                  "description": "L'association \"Equilibre Monnaie-Terre\" est l’initiatrice du développement du Méreau, la monnaie locale complémentaire du Montargois.<br>Le blog: http://mereaudugatinais.blog4ever.com/<br>Facebook: https://www.facebook.com/mereaudugatinais<br>Framasphère: https://framasphere.org/u/equilibremonnaieterre<br>Contact: equilibremonnaieterre@gmail.com",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.7087307,48.0061899,0.0"
+                  }
+               },
+               {
+                  "name": "Fougères, Cyclofficine",
+                  "description": "atelier de réparation vélo en autogestion : paie ta cotisation annuelle et mets les mains dans le cambouis ! apprentissage de la vélonomie, ré emploi de vélos récupérés en déchetterie, recyclage de pièces en objets. Ouvert les mardis soirs de 19h00 à 22h00, les mercredis et samedis après-midi de 14h00 à 19h00. Plus d'infos à http://cyclocoop.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.4112066999999797,48.8716379,0.0"
+                  }
+               },
+               {
+                  "name": "Le bois du barde, Eco-Domaine",
+                  "description": "1/Ferme de Coat an Bars: ferme arboricole bio sur 15 hectares , éco-camping, hébergements insolites 2/ Association les amis du bois du barde, association d'éducation populaire: ferme équestre, asine et pédagogique, séjours pour enfants, formations adultes, ateliers ferme, sensibilisation à la langue bretonne. www.leboisdubarde.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-3.3130217,48.173040400000005,0.0"
+                  }
+               },
+               {
+                  "name": "Issole en Transition",
+                  "styleUrl": "#icon-22-nodesc",
+                  "Point": {
+                     "coordinates": "6.768934,44.5906389,0.0"
+                  }
+               },
+               {
+                  "name": "Festival des K-cow phonies",
+                  "description": "Festival gratuit, libre et indépendant. Conférences autour de la transition, la permaculture, voyager autrement ... Expositions d'artistes et sessions graf. http://www.plus2zik.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "3.5077286,47.9073566,0.0"
+                  }
+               },
+               {
+                  "name": "Jardins partagés des Coteaux de Follainville-Dennemont",
+                  "description": "http://jardinspartagesfd.blogspot.fr/ http://transitionmantes.fr",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "1.7088461,49.0162848,0.0"
+                  }
+               },
+               {
+                  "name": "Fermaculture",
+                  "description": "http://fermaculture.org/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "6.1105442,45.8766543,0.0"
+                  }
+               },
+               {
+                  "name": "Colibris de Versailles",
+                  "description": "https://sites.google.com/site/colibrisdeversailles/home",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "2.1316511,48.7888531,0.0"
+                  }
+               },
+               {
+                  "name": "Pau WeekMeup",
+                  "description": "Une vraie plateforme de vie collaborative dédiée zone d'activités http://numericuss.com/2014/09/08/pourquoi-un-promoteur-gestionnaire-de-zone-dactivites-economiques-decide-t-il-de-lancer-les-ateliers-des-proximites-augmentees/",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "-0.371819,43.295324,0.0"
+                  }
+               },
+               {
+                  "name": "Prima Vera",
+                  "description": "http://prima-vera.net",
+                  "styleUrl": "#icon-22",
+                  "Point": {
+                     "coordinates": "4.4137573,44.0066446,0.0"
+                  }
+               }
+            ]
+         },
+         {
+            "name": "L'HAMEAU SAPIENS",
+            "Placemark": {
+               "name": "L'HAMEAU SAPIENS",
+               "description": "<img src=\"https://lh3.googleusercontent.com/proxy/SwJCnKBwb0RTWSADHOTH7iiib66Q5rc83KYh5bK7zkEOVqjvB53uR1mVZzBnJCMqm5YyK3i7_pCufD6f72ks1bECKG9xIMD8UD5alo-f8CayeK0_a2rWThSSTCgaRR-xvYm0DJ3-qYGMCn1xtf1CdPSgBle9z2-Rko3TUBQqizTlYKNJTznIvfx0L9x22ozs-HmqlM5YUMiS0lHg6rBtDr0podkzBJ_vMoBzIs9sVdk3XSGXc5oc4ZxnVl5muHN-vIRDPAVy_Y97xzR-FNDhj2337OddWDgKvCXSdsjrrUTGaycRh7PV_ZbEIH7M_KNzn67IU7mdt8NI_8mTVLQ30TOGArMvcwLRXO4tu2OS4P6f6cEMmsi4adtNLLkTezefB6kOCOp9vC-CSTvyH5PN2VhZH4NUKAIVUO7Lw9BCh7aRLMFDOxijhqN3n8fxRqMbAaGioOf_8emX5nXgFJyQlmt6RhTF3NtuvSQWoa4mx6fS8FBOmsejKaoCE2JQYxG5Nzqt\" height=\"200\" width=\"auto\" /><br><br>Namasté! Bienvenu chez nous. Nous sommes propriétaire d'un hameau. Son nom: \"L'Hameau Sapiens\", un lieu privé, discret, non sectaire, sans dogme, ni gourou, basé sur l'autogestion naturelle, sans prise de tête. Nous sommes juste de simples humains qui avons pour projet de ne pas vieillir tout seul dans leur coin devant un écran où s'invente mille vies par procuration. Ce petit lieu associatif fonctionne à l'invitation, si tu es arrivé jusque là c'est qu'on risque bientôt de se rencontrer.<br> Tout d'abord ce site s'adresse à ceux qui savent encore lire. Et autrement qu'en langage SMS. Car ce qu'il y a de bien avec les textes longs c'est qu'ils opèrent d'eux même une sélection entre les speedés qui n'ont jamais le temps de penser et qui disent: \"c'est comment qu'on freine\" et ceux: \"qui savent descendre de là\".<br> Donc, Welcome home to \"fondcombe\" et sa Guest-house ! Un des derniers endroits simple et sans extrême. Les premiers voisins sont à un quart d'heure en voiture quelque soit la direction! Partout, de la foret, du vert, au calme et isolé. Tel un monastère sans dieu ni maître, ici les rares habitant que nous sommes cherchent la voie du milieu, c'est ce qu'il y a de plus compliqué au monde: les pieds sur terre et la tête dans les étoiles. <br> Nous aimons les bonnes énergies, les rêves, les rires, les infos, les contacts, les échanges...site web: https://sites.google.com/site/lhameausapiens/home ; contact mail: lhameauvert@laposte.net",
+               "styleUrl": "#icon-503-DB4436",
+               "ExtendedData": {
+                  "Data": {
+                     "@name": "gx_media_links",
+                     "value": "https://lh3.googleusercontent.com/proxy/SwJCnKBwb0RTWSADHOTH7iiib66Q5rc83KYh5bK7zkEOVqjvB53uR1mVZzBnJCMqm5YyK3i7_pCufD6f72ks1bECKG9xIMD8UD5alo-f8CayeK0_a2rWThSSTCgaRR-xvYm0DJ3-qYGMCn1xtf1CdPSgBle9z2-Rko3TUBQqizTlYKNJTznIvfx0L9x22ozs-HmqlM5YUMiS0lHg6rBtDr0podkzBJ_vMoBzIs9sVdk3XSGXc5oc4ZxnVl5muHN-vIRDPAVy_Y97xzR-FNDhj2337OddWDgKvCXSdsjrrUTGaycRh7PV_ZbEIH7M_KNzn67IU7mdt8NI_8mTVLQ30TOGArMvcwLRXO4tu2OS4P6f6cEMmsi4adtNLLkTezefB6kOCOp9vC-CSTvyH5PN2VhZH4NUKAIVUO7Lw9BCh7aRLMFDOxijhqN3n8fxRqMbAaGioOf_8emX5nXgFJyQlmt6RhTF3NtuvSQWoa4mx6fS8FBOmsejKaoCE2JQYxG5Nzqt"
+                  }
+               },
+               "Point": {
+                  "coordinates": "2.6181793,43.6410445,0.0"
+               }
+            }
+         }
+      ]
+	}
+}
