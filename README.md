@@ -17,11 +17,11 @@ Voici les liens des travaux effectués servant de base de réflexions à ce cahi
 
 ## PHILOSOPHIE
 
-<center>
 Donne-moi des briques et je construirais
 
 Logiciel libre & open sources
 
-Il n'héxiste pas Une solution !
+## Contraintes
+
+Il n'héxiste pas Une solution ! <br/>
 Mme Michou, le petit gaetan ou Marc l'ingé-son ne souhaite la même interface
-</center>
