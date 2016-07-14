@@ -14,4 +14,4 @@ Créations & Collectes
 
 ## Outils
 
-> ! Ce serais utile de lister ici les travaux et librairies existante, stable et doc envisageables des aujourd’hui !
+> ! Ce serais utile de lister ici les travaux et librairies existante, stable et donc envisageables des aujourd’hui !
