@@ -21,9 +21,20 @@ Donne-moi des briques et je construirais
 
 Logiciel libre & open sources
 
+[S’il vous plait adhérer à cette rigueur.](CRITIQUE.md)
+
 ## Contraintes
 
 - Il n'héxiste pas Une solution !  <br/>
   Mme Michou, le petit gaetan ou Marc l'ingé-son ne souhaite la même interface
 
 - Pour le 31 aout il nous faut lier les actifs entre eux et motiver l'envie de devenir actif.
+
+## Propositions (Générale)
+
+- [SD-CI](SD-CI.md) Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages. Mais admettre que les "serveurs" fournissent uniquement des données, et les "clients" s’occupent de créer UI.
+
+
+
+
+

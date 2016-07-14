@@ -30,4 +30,4 @@ L'information est un sens large. Il peut y avoir
 
 ## Pistes
 
-- Comprendre les format de données utilisé par Communecter.
+- Comprendre les formats de données utilisé par Communecter.
