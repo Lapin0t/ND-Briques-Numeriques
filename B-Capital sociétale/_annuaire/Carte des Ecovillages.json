@@ -1,0 +1,84 @@
+{
+  "markers": {
+    "marker": [
+      {
+        "-name": "Eco-site Dionay",
+        "-link": "http://fr.gaiadir.com/eco-site-dionay",
+        "-lng": "5.2201478",
+        "-lat": "45.2030909"
+      },
+      {
+        "-name": "Ecohameau du moulin de Busseix Ladignac le Long",
+        "-link": "http://fr.gaiadir.com/ecohameau-moulin-busseix-ladignac-long",
+        "-lng": "1.088401",
+        "-lat": "45.602826"
+      },
+      {
+        "-name": "ECOlonie - Centre Ecologique International Hennezel",
+        "-link": "http://fr.gaiadir.com/ecolonie-centre-ecologique-international-hennezel",
+        "-lng": "6.107378",
+        "-lat": "48.053178"
+      },
+      {
+        "-name": "Ecovillage de la Clède",
+        "-link": "http://fr.gaiadir.com/ecovillage-de-la-clede",
+        "-lng": "4.03333",
+        "-lat": "44.400002"
+      },
+      {
+        "-name": "Ecovillage Fondale",
+        "-link": "http://fr.gaiadir.com/ecovillage-fondale",
+        "-lng": "9.411368",
+        "-lat": "42.232231"
+      },
+      {
+        "-name": "Fonderie de la Dure Montolieu",
+        "-link": "http://fr.gaiadir.com/fonderie-de-la-dure-montolieu",
+        "-lng": "2.214795",
+        "-lat": "43.309695"
+      },
+      {
+        "-name": "Hameau des Buis Lablachère",
+        "-link": "http://fr.gaiadir.com/hameau-des-buis-lablachere",
+        "-lng": "4.2198693",
+        "-lat": "44.4053594"
+      },
+      {
+        "-name": "La Maison Bosnormand",
+        "-link": "http://fr.gaiadir.com/la-maison-bosnormand",
+        "-lng": "0.9033285",
+        "-lat": "49.2841089"
+      },
+      {
+        "-name": "Le Val Heureux Ingre",
+        "-link": "http://fr.gaiadir.com/le-val-heureux-ingre",
+        "-lng": "1.8325889",
+        "-lat": "47.9180422"
+      },
+      {
+        "-name": "Oasis Bellecombe La Motte Chalançon",
+        "-link": "http://fr.gaiadir.com/oasis-bellecombe-la-motte-chalancon",
+        "-lng": "5.3807775",
+        "-lat": "44.4852318"
+      },
+      {
+        "-name": "Oasis de Sebet Lablachère",
+        "-link": "http://fr.gaiadir.com/oasis-de-sebet-lablachere",
+        "-lng": "4.2147771",
+        "-lat": "44.4639548"
+      },
+      {
+        "-name": "Passerelle Eco Montpellier",
+        "-link": "http://fr.gaiadir.com/passerelle-eco-montpellier",
+        "-lng": "3.8661218",
+        "-lat": "43.6070264"
+      },
+      {
+        "-name": "Terre de possibles Cluny",
+        "-link": "http://fr.gaiadir.com/terre-de-possibles-cluny",
+        "-lng": "4.54187250084942",
+        "-lat": "46.2800845925546"
+      }
+    ]
+  }
+}
