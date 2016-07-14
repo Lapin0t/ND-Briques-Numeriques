@@ -15,12 +15,21 @@ L’application numérique pour l'e-démocratie doit :
 
 ## Contraintes
 
-- Les processus décisionnel employés pour l'heure d'une réunion, l’achat d'un local ou l'approbation d'un nouveau programme scolaire, doit pouvoir être déférent.
+- Il y a des dizaines méthodes pour constituer un processus décisionnel
+
+  Les processus décisionnel employés pour l'heure d'une réunion, l’achat d'un local ou l'approbation d'un nouveau programme scolaire, doit pouvoir être déférent.
+    
+  Les processus de vote sont nombreux Consensus (approximatif, omnium, ...), Intelligence collective, etc...
+
+  Il y aussi beaucoup de systèmes de vote Méthode de Condorcet (avec ou sans rangement des paires par ordre décroissant), Méthode Schulze, Méthode Black, etc...
+
+  Idem pour les structures décisionnelles, Holacratie, Sociocratie, etc...
 
 ## Propositions
 
 ### API
 
+- Proposer l'API [PHP condorcet](https://www.condorcet.vote/)
 - API OpenFlowProcess permettant la description et l'application des processus de vote.
 
 ### UX
