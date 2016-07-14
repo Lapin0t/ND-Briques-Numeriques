@@ -14,6 +14,4 @@ Nous utilisons MediaWiki et la suite framasoft pour partager et collaborer
 
 ## Propositions
 
-### API
-
-### UX
+- [Les Micro-tâches de Nuit Debout](https://hackmd.io/s/r1H_Gkhr)
