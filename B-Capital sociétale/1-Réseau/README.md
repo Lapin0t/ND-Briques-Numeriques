@@ -2,11 +2,6 @@
 Réseau
 ===
 
-## Actuellement
-
-- Voici la liste des support que nous utilisons actuellement 
-[(hubs) données nuitdebout](https://www.mindmeister.com/fr/726853954/hubs-donn-es-nuitdebout)
-
 ## Objectifs
 
 1. Inclusive en termes de disponibilité et mobilité
