@@ -4,7 +4,8 @@ Réseau
 
 ## Actuellement
 
-- Nous utilisons Telegram, RocketChat, Tweeter, Facebook, ...
+- Voici la liste des support que nous utilisons actuellement 
+[(hubs) données nuitdebout](https://www.mindmeister.com/fr/726853954/hubs-donn-es-nuitdebout)
 
 ## Objectifs
 
