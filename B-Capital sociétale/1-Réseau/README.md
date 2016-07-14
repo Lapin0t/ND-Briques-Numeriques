@@ -21,4 +21,5 @@ Réseau
 
 ## Propositions
 
-- Utiliser la base de comminecter comme bique applicative.
+- Utiliser la base de communecter comme bique applicative.
+

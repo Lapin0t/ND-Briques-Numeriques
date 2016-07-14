@@ -15,7 +15,7 @@ Voici les liens des travaux effectués servant de base de réflexions à ce cahi
 - Propositions \
   [NuitDebout sur communecter.org](https://docs.google.com/document/d/1wZnQ6_0ak9YkXiglp1r5GNjxtrf6W6NP43wq2gvrkKg/mobilebasic)
 
-## PHILOSOPHIE
+## Philosophie
 
 Donne-moi des briques et je construirais
 
