@@ -23,5 +23,5 @@ Logiciel libre & open sources
 
 ## Contraintes
 
-Il n'héxiste pas Une solution ! <br/>
+Il n'héxiste pas Une solution !  <br/>
 Mme Michou, le petit gaetan ou Marc l'ingé-son ne souhaite la même interface
