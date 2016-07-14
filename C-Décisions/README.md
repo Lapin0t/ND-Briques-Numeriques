@@ -5,6 +5,7 @@ Prise de décisions
 ## Objectifs
 
 L’application numérique pour l'e-démocratie doit :
+
 1. Etre un outil délibératif
 2. Permettre la construction collective (concept, idée, règle)
    1. Favoriser la construction affinitaire plutôt sur conflictuel
