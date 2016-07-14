@@ -31,8 +31,6 @@ L’application numérique pour l'e-démocratie doit :
 - Le principe de retranscrire les méthodes d’AG réel dans un outils virtuel me semble à réaliser et tester.
 Voir les travaux de Jean-Hugues Robert avec inseme
 ([source](https://github.com/virteal/inseme), [démo](https://inseme.firebaseapp.com/)).
+  - [ ] Interroger la commission assemblée sur place.
 
-- Interroger la commission assemblée sur place.
-
-- Inscrivez ici les autre idée ou réalisation d’UX cohérente aux objectifs
 
