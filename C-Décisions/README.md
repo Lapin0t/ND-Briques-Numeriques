@@ -15,22 +15,24 @@ L’application numérique pour l'e-démocratie doit :
 
 ## Contraintes
 
-1.	Les processus décisionnel employés pour l'heure d'une réunion, l’achat d'un local ou l'approbation d'un nouveau programme scolaire, doit pouvoir être déférent.
+- Les processus décisionnel employés pour l'heure d'une réunion, l’achat d'un local ou l'approbation d'un nouveau programme scolaire, doit pouvoir être déférent.
 
 ## Propositions
 
 ### API
 
-1.	API OpenFlowProcess permettant la description et l'application des processus de vote.
+- API OpenFlowProcess permettant la description et l'application des processus de vote.
 
 ### UX
 
-1.	API OpenFlowProcessUi, une interface de programmation visuel
+- API OpenFlowProcessUi, une interface de programmation visuel
 (Oui je rêve, mais l’on m’a dit qu’il avait fallu de viser le soleil pour arriver sur la lune)
-2.	Le principe de retranscrire les méthodes d’AG réel dans un outils virtuel me semble à réaliser et tester.
+
+- Le principe de retranscrire les méthodes d’AG réel dans un outils virtuel me semble à réaliser et tester.
 Voir les travaux de Jean-Hugues Robert avec inseme
-([source](https://github.com/virteal/inseme),
-[démo](https://inseme.firebaseapp.com/)).
-1.	Interroger la commission assemblée sur place.
-3.	Inscrivez ici les autre idée ou réalisation d’UX cohérente aux objectifs
+([source](https://github.com/virteal/inseme), [démo](https://inseme.firebaseapp.com/)).
+
+- Interroger la commission assemblée sur place.
+
+- Inscrivez ici les autre idée ou réalisation d’UX cohérente aux objectifs
 
