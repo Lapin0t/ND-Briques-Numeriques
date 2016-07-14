@@ -1,5 +1,5 @@
 
-Prise de décisions
+Processus décisionnels
 ===
 
 ## Objectifs
