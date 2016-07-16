@@ -2,7 +2,7 @@
 Capital Sociétale
 ===
 
-Le capital sociétale regroupe 4 briques fonctionnelles.
+Le capital sociétale regroupe 5 briques fonctionnelles.
 
 1. Le [réseau](1-Réseau)
 2. Les [savoirs & compétences](2-Savoirs & Compétences)

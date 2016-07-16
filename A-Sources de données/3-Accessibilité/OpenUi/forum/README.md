@@ -17,8 +17,8 @@ interface Forum extends HTMLDivElement
     public sendMessage(message, parent)
     public deleteMessage(msg)
     public tagMessage(msg, tag)
-    public IamOk(message, reponse)
-    public IamNotOk(message, reponse)
+    public ImOk(message, reponse)
+    public ImNotOk(message, reponse)
 }
 ```
 
@@ -32,10 +32,16 @@ L'action *épingler un message* ce fait en le glissant vers la droite.
 
 ![Supprimer un message](UX-Message-Actions-Swipe-Send.png)
 
-En sélectionnant un message, un menu apparais.
+En sélectionnant un message, un menu apparait.
 
 ![Affichage d'un message par défaut](UX-Message-Actions-Menu.png)
 
 Sur menu les autres actions sont disponible.
 
 ![Supprimer un message](UX-Message-Actions-Menu-Details.png)
+
+### Aides
+
+- Une lib ayant le composant swipe tout fait [framework7 Swipeout](http://framework7.io/docs/swipeout.html)
+- Une lib plus légère [snabbt.js](http://daniel-lundin.github.io/snabbt.js/#transform-origin-example)
+
