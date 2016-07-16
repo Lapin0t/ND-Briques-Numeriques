@@ -19,4 +19,4 @@ La class abstraite `<forum>` doit permettre aux développeur d'UX d'accéder aux
 
 ![Supprimer un message](UX-Message-Actions-Swipe-Send.png)
 
-![Supprimer un message](UX-Message-Actions.pdf)
+{5:12}(forum.js)
