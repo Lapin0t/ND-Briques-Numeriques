@@ -1,5 +1,5 @@
 L'OpenQuery
-<small>Recherche sue la base de données</small>
+<small>Recherche sur la base de données</small>
 ===
 
 :grey_exclamation:

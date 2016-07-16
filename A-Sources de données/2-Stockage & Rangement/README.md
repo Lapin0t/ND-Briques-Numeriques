@@ -11,13 +11,27 @@ A-Sources de données / Stockage & Rangement
 
 ## Actuellement
 
-- _(1)_ Il y a un groupe de réflexion [Chat Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
-- _(4)_ Le wiki du goupe [Mémoire Commune](https://wiki.nuitdebout.fr/wiki/Villes/Paris/Accueil_et_coordination/M%C3%A9moire_Commune#Stockage_num.C3.A9rique)
+- _(1)_ Le groupe de réflexion [Chat Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
+- _(4)_ Le groupe de réflexion [Mémoire Commune](https://wiki.nuitdebout.fr/wiki/Villes/Paris/Accueil_et_coordination/M%C3%A9moire_Commune#Stockage_num.C3.A9rique)
 
 _Aides_
 
 - _(1)_ [Article p2p](http://schuler.developpez.com/articles/p2p/)
 - _(3)_ [Introduction-neo4j](http://logisima.developpez.com/tutoriel/nosql/neo4j/introduction-neo4j/#LI-E-8)
+
+## Propositions
+
+Ojectif 1:
+- _!! AUCUNE !!_
+
+Ojectif 2:
+- _!! AUCUNE !!_
+
+Ojectif 3:
+- Utiliser une base de données graph. (eg. Neo4j). 
+
+Ojectif 4:
+- _!! AUCUNE !!_
 
 ## Solutions temporaire
 
@@ -42,3 +56,7 @@ CREATE
 > ! Ce serais utile de lister ici les travaux et librairies existante, stable et donc envisageables des aujourd’hui !
 
 voir les travaux de philippe Esling [Democrite](https://github.com/esling/democrite)
+
+---
+
+wealth talent exclude fiscal skill junk erase tackle waste lonely gadget consider
