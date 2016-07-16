@@ -22,10 +22,10 @@ Par conséquent, admettre que les "serveurs" fournissent uniquement des données
 
 ## Désavantages
 
--	Communecter est construit sur un Framework MVC pas vraiment optimum…
+-	Communecter est construit sur un Framework MVC pas vraiment dans cette idée…
 
 ## Contrainte
 
 (si aprouvé)
 
--	Définir le(s) Framework(s) coté client (React-Redux/Angular/Ember/etc…) pour que tous travail sur un système homogène
+-	Définir le(s) Framework(s) coté client (React-Redux/Angular/Ember/etc…) pour que les travaux de chacuns puisse sur être homogène !
