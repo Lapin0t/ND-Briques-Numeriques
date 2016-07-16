@@ -11,19 +11,31 @@ La class abstraite `<forum>` doit permettre aux développeur d'UX d'accéder aux
 - Indiquer être d'accord avec un message
 - Indique ne pas être d'accord avec un message (impose un message réponse)
 
-```c++
+```ts
 interface Forum extends HTMLDivElement
 {
-    public sendMessage(fil, message, parent) {}
-    public IamOk(fil, message, reponse = null) {}
-    public IamNotOk(fil, message, reponse) {}
+    public sendMessage(message, parent)
+    public deleteMessage(msg)
+    public tagMessage(msg, tag)
+    public IamOk(message, reponse)
+    public IamNotOk(message, reponse)
 }
 ```
 
-![Affichage d'un message par défaut](UX-Message-Actions-Menu.png)
+## L'UX
 
-![Supprimer un message](UX-Message-Actions-Menu-Details.png)
+L'action *supprimer un message* ce fait en le glissant vers la gauche.
 
 ![Supprimer un message](UX-Message-Actions-Swipe-Kill.png)
 
+L'action *épingler un message* ce fait en le glissant vers la droite.
+
 ![Supprimer un message](UX-Message-Actions-Swipe-Send.png)
+
+En sélectionnant un message, un menu apparais.
+
+![Affichage d'un message par défaut](UX-Message-Actions-Menu.png)
+
+Sur menu les autres actions sont disponible.
+
+![Supprimer un message](UX-Message-Actions-Menu-Details.png)
