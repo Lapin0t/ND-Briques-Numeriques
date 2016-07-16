@@ -23,6 +23,14 @@ Logiciel libre & open sources
 
 [S’il vous plait adhérer à cette rigueur.](CRITIQUE.md)
 
+## Objectifs
+
+3 grand thèmes fonctionnel sont ressortis du hackathon :
+
+-	[Les sources de données](A-Sources de données)
+-	[Le capital social](B-Capital sociétale)
+-	[Le processus décisionnel](C-Processus décisionnels)
+
 ## Contraintes
 
 - Il n'héxiste pas Une solution !  <br/>
