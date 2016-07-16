@@ -9,9 +9,9 @@ Les sources de données
 
 2.	[Stockage & Rangement](2-Stockage & Rangement)
     -	Décentraliser le stockage des données.
-    -	La mémoire. Conservé et réutiliser l'information.
     -	Replacer l'information dans son contexte
     -	Organisation & Tris personnalisable 
+    -	La mémoire. Conservé et réutiliser l'information.
 
 3.	[Accessibilité](3-Accessibilité)
     -	Centraliser l'accès aux informations  
@@ -29,5 +29,6 @@ L'information est un sens large. Il peut y avoir
 ## Pistes
 
 - Comprendre les formats de données utilisé par Communecter.
+- Les bases de données graph semble adaptées.
 
 

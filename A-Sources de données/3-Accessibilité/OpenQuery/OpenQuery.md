@@ -19,7 +19,7 @@ et les requête serveur sont écrite au plus compréhensible.
 #### 1) Nuit debout ! c'est quoi ?
 
 ```js
-tag("NuitDebout") / articles
+articles / tag('NuitDebout')
 ```
 > Ici touts les articles du groupe NuitDebout sont retournés. \
 Le probléme est qu'il va en avoir beaucoup. Donc il est écentiel

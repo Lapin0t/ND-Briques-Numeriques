@@ -1,5 +1,5 @@
 
-Stockage & Rangement
+A-Sources de données / Stockage & Rangement
 ===
 
 ## Objectifs
@@ -11,12 +11,13 @@ Stockage & Rangement
 
 ## Actuellement
 
-- Il y a un groupe de réflexion [Chat Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
+- _(1)_ Il y a un groupe de réflexion [Chat Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
+- _(4)_ Le wiki du goupe [Mémoire Commune](https://wiki.nuitdebout.fr/wiki/Villes/Paris/Accueil_et_coordination/M%C3%A9moire_Commune#Stockage_num.C3.A9rique)
 
 _Aides_
 
-- [article p2p](http://schuler.developpez.com/articles/p2p/)
-- [introduction-neo4j](http://logisima.developpez.com/tutoriel/nosql/neo4j/introduction-neo4j/#LI-E-8)
+- _(1)_ [Article p2p](http://schuler.developpez.com/articles/p2p/)
+- _(3)_ [Introduction-neo4j](http://logisima.developpez.com/tutoriel/nosql/neo4j/introduction-neo4j/#LI-E-8)
 
 ## Solutions temporaire
 
