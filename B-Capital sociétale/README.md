@@ -6,12 +6,14 @@ Le capital sociétale regroupe 5 briques fonctionnelles.
 
 1. Le [réseau](1-Réseau).
    L’application doit permettre une mise à disposition efficace et inclusive de toute les sources d’informations et de données.
-2. Les [savoirs & compétences](2-Savoirs & Compétences)
+2. Les [savoirs & compétences](2-Savoirs & Compétences).
+   L’application doit offrir des moyens simple et efficace pour organiser et transmettre les savoir.
 3. Les [moyens matériels](3-Moyens matériels).
    L’application doit permettre de gérer collectivement des ressources d’ordre physique.
 4. Les [moyens financiers](4-Moyens financiers).
    L’application doit permettre d’accéder à des moyens financiers pour réaliser des initiatives
-5. Les [Projets & Actions](5-Projets & Actions)
+5. Les [Projets & Actions](5-Projets & Actions).
+   L’application doit permettre l’organisation complète des projets.
 
 ## Actuellement
 
