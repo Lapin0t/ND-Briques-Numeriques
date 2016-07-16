@@ -82,15 +82,15 @@ evenement(fdj15jgc83jj4269lk) / CR + actions + evenements
 #### 2)  
 
 Ici nous souhaitons connaitre les débats portant sur l'architecture
-```javascript=
+```js
 db.theme('architecture').debats();
 ```
 
 Ici nous cherchons à connaitre les besoins pour les actions futur portant sur l'écologie
-```javascript=
+```js
 db.theme('écologie').actions.date(Date.Now).besoins();
 ```
 Ici nous cherchons tout les article tager 'cop21' durant l'année 2016.
-```javascript=
+```js
 db.articles.date('0/0/2016').hashtag('cop21')();
 ```

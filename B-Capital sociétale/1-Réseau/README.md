@@ -12,8 +12,6 @@ Réseau
 
 - Objectif 1 & 2:
   - L’appli meteormobil de communecter peut'il être utile ?
-- Objectif 1 & 3:
-  - La [Box Internet Debout](https://wiki.nuitdebout.fr/wiki/Box_Internet_Debout) peut elle aider ?
 
 ## Propositions
 
