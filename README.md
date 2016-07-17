@@ -23,6 +23,7 @@ Logiciel libre & open sources
 
 [S’il vous plait adhérer à cette rigueur.](CRITIQUE.md)
 
+---
 ## Objectifs
 
 3 grand thèmes fonctionnel sont ressortis du hackathon :
@@ -39,11 +40,37 @@ Logiciel libre & open sources
 
 - Pour le 31 aout il nous faut lier les actifs entre eux et motiver l'envie de devenir actif.
 
-## Propositions (Générale)
+---
+## Proposition
 
 - [SD-CI](SD-CI.md) Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages. Mais admettre que les "serveurs" fournissent uniquement des données, et les "clients" s’occupent de créer UI.
 
+### Structure réseau
 
+- L'[OpenNet]()
+  as pour but de définir les modéles et protocoles utiliser pour la plateforme.
+
+- L'[OpenBox]()
+  est une couche matérielle de l’OSI ayant but d’aider et favoriser l’accès à la communication internet
+
+### Les données
+
+- L'api [OpenSchema]()
+  définit l’ontologie des données et leurs schémas
+
+- L'[OpenDb]()
+  définis les serveurs physiques utilisable pour la plateforme
+  
+- L'api [OpenQuey]()
+  définit les protocoles et fonctions d’accès aux données
+
+### L'interface utilisateurs
+
+- API OpenUi
+
+- API OpeneDemocraticProcess
+
+- UX
 
 ---
 

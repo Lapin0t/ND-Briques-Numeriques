@@ -1,5 +1,10 @@
 
-L'élément \<forum\>
+L'élément 'forum'
+===
+
+
+
+L'élément 'discussion'
 ===
 
 La class abstraite `<forum>` doit permettre aux développeur d'UX d'accéder aux actions suivantes !
@@ -11,8 +16,8 @@ La class abstraite `<forum>` doit permettre aux développeur d'UX d'accéder aux
 - Indiquer être d'accord avec un message
 - Indique ne pas être d'accord avec un message (impose un message réponse)
 
-```ts
-interface Forum extends HTMLDivElement
+```typescript
+interface Discussion extends HTMLDivElement
 {
     public sendMessage(message, parent)
     public deleteMessage(msg)
@@ -36,7 +41,7 @@ En sélectionnant un message, un menu apparait.
 
 ![Affichage d'un message par défaut](UX-Message-Actions-Menu.png)
 
-Sur menu les autres actions sont disponible.
+Sur ces menus les autres actions sont disponible.
 
 ![Supprimer un message](UX-Message-Actions-Menu-Details.png)
 

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <SchemaVersion>2.0</SchemaVersion>
+        <ProjectGuid>{af14f8b4-390b-4579-aa95-6645f824f962}</ProjectGuid>
+        <ProjectHome />
+        <ProjectView>ShowAllFiles</ProjectView>
+        <StartupFile />
+        <WorkingDirectory>.</WorkingDirectory>
+        <OutputPath>.</OutputPath>
+        <ProjectTypeGuids>{3AF33F2E-1136-4D97-BBB7-1795711AC8B8};{349c5851-65df-11da-9384-00065b846f21};{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}</ProjectTypeGuids>
+        <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+        <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    </PropertyGroup>
+    <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+    <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+    <ItemGroup>
+        <Content Include="tsconfig.json" />
+        <Content Include="CRITIQUE.md" />
+        <Content Include="README.md" />
+        <Content Include="SD-CI.md" />
+        <Content Include="A-Sources de données\README.md" />
+        <Content Include="B-Capital sociétale\README.md" />
+        <Content Include="C-Processus décisionnels\openFlowProcess.md" />
+        <Content Include="C-Processus décisionnels\README.md" />
+        <Content Include="A-Sources de données\1-Créations &amp; Collectes\README.md" />
+        <Content Include="A-Sources de données\2-Stockage &amp; Rangement\README.md" />
+        <Content Include="A-Sources de données\3-Accessibilité\README.md" />
+        <Content Include="A-Sources de données\3-Accessibilité\OpenQuery\OpenQuery.md" />
+        <Content Include="A-Sources de données\3-Accessibilité\OpenUi\OpenUI-Ecrit.md" />
+        <Content Include="A-Sources de données\3-Accessibilité\OpenUi\README.md" />
+        <Content Include="A-Sources de données\3-Accessibilité\OpenUi\forum\UX-Message-Actions-Menu-Details.png" />
+        <Content Include="A-Sources de données\3-Accessibilité\OpenUi\forum\UX-Message-Actions-Menu.png" />
+        <Content Include="A-Sources de données\3-Accessibilité\OpenUi\forum\UX-Message-Actions-Swipe-Kill.png" />
+        <Content Include="A-Sources de données\3-Accessibilité\OpenUi\forum\UX-Message-Actions-Swipe-Send.png" />
+        <Content Include="A-Sources de données\3-Accessibilité\OpenUi\forum\README.md" />
+        <Compile Include="A-Sources de données\3-Accessibilité\OpenUi\forum\forum.js" />
+        <Content Include="B-Capital sociétale\1-Réseau\README.md" />
+        <Content Include="B-Capital sociétale\2-Savoirs &amp; Compétences\README.md" />
+        <Content Include="B-Capital sociétale\3-Moyens matériels\README.md" />
+        <Content Include="B-Capital sociétale\4-Moyens financiers\README.md" />
+        <Content Include="B-Capital sociétale\5-Projets &amp; Actions\README.md" />
+        <Content Include="B-Capital sociétale\_annuaire\gaiadir.txt" />
+        <Content Include="B-Capital sociétale\_annuaire\Les fermes Terre de liens.txt" />
+        <Content Include="B-Capital sociétale\_annuaire\Campe dans mon jardin.json" />
+        <Content Include="B-Capital sociétale\_annuaire\Carte des Ecovillages.json" />
+        <Content Include="B-Capital sociétale\_annuaire\Carte des initiatives de transition en France.json" />
+        <Content Include="B-Capital sociétale\_annuaire\La carte des Fablabs.json" />
+        <Content Include="B-Capital sociétale\_annuaire\README.md" />
+        <Compile Include="B-Capital sociétale\_annuaire\La carte du coworking.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Folder Include="A-Sources de données" />
+        <Folder Include="A-Sources de données\1-Créations &amp; Collectes" />
+        <Folder Include="A-Sources de données\2-Stockage &amp; Rangement" />
+        <Folder Include="A-Sources de données\2-Stockage &amp; Rangement\OpenDb" />
+        <Folder Include="A-Sources de données\3-Accessibilité" />
+        <Folder Include="A-Sources de données\3-Accessibilité\OpenBox" />
+        <Folder Include="A-Sources de données\3-Accessibilité\OpenNet" />
+        <Folder Include="A-Sources de données\3-Accessibilité\OpenQuery" />
+        <Folder Include="A-Sources de données\3-Accessibilité\OpenUi" />
+        <Folder Include="A-Sources de données\3-Accessibilité\OpenUi\forum" />
+        <Folder Include="B-Capital sociétale" />
+        <Folder Include="B-Capital sociétale\_annuaire" />
+        <Folder Include="B-Capital sociétale\1-Réseau" />
+        <Folder Include="B-Capital sociétale\2-Savoirs &amp; Compétences" />
+        <Folder Include="B-Capital sociétale\3-Moyens matériels" />
+        <Folder Include="B-Capital sociétale\4-Moyens financiers" />
+        <Folder Include="B-Capital sociétale\5-Projets &amp; Actions" />
+        <Folder Include="C-Processus décisionnels" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+    <!--Do not delete the following Import Project.  While this appears to do nothing it is a marker for setting TypeScript properties before our import that depends on them.-->
+    <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="False" />
+    <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsTools.targets" />
+    <ProjectExtensions>
+        <VisualStudio>
+          <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+            <WebProjectProperties>
+              <UseIIS>False</UseIIS>
+              <AutoAssignPort>True</AutoAssignPort>
+              <DevelopmentServerPort>0</DevelopmentServerPort>
+              <DevelopmentServerVPath>/</DevelopmentServerVPath>
+              <IISUrl>http://localhost:48022/</IISUrl>
+              <NTLMAuthentication>False</NTLMAuthentication>
+              <UseCustomServer>True</UseCustomServer>
+              <CustomServerUrl>http://localhost:1337</CustomServerUrl>
+              <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+            </WebProjectProperties>
+          </FlavorProperties>
+          <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+            <WebProjectProperties>
+              <StartPageUrl>
+              </StartPageUrl>
+              <StartAction>CurrentPage</StartAction>
+              <AspNetDebugging>True</AspNetDebugging>
+              <SilverlightDebugging>False</SilverlightDebugging>
+              <NativeDebugging>False</NativeDebugging>
+              <SQLDebugging>False</SQLDebugging>
+              <ExternalProgram>
+              </ExternalProgram>
+              <StartExternalURL>
+              </StartExternalURL>
+              <StartCmdLineArguments>
+              </StartCmdLineArguments>
+              <StartWorkingDirectory>
+              </StartWorkingDirectory>
+              <EnableENC>False</EnableENC>
+              <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+            </WebProjectProperties>
+          </FlavorProperties>
+        </VisualStudio>
+    </ProjectExtensions>
+</Project>
