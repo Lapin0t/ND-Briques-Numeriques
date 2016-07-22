@@ -64,7 +64,7 @@ Propositions
 - L'[OpenDb](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/2-OpenDb)
   définis les serveurs physiques utilisable pour la plateforme
   
-- L'[OpenQuey](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/3-OpenQuery)
+- L'[OpenQuery](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/3-OpenQuery)
   définit les protocoles et fonctions d’accès aux données
 
 ### Processus décisionnels
