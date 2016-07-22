@@ -40,11 +40,12 @@ Logiciel libre & open sources
 Propositions
 ===
 
-### Propositions de Communecter
+### A. Propositions de Communecter
 
   - [NuitDebout sur communecter.org](https://docs.google.com/document/d/1wZnQ6_0ak9YkXiglp1r5GNjxtrf6W6NP43wq2gvrkKg/mobilebasic)
 
-### Proposition sectorisé en API
+---
+### B. Proposition sectorisé en API
 
 ### Philosophie globale :
 
