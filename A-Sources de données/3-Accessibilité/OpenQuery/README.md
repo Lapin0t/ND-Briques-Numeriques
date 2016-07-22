@@ -1,4 +1,4 @@
-L'OpenQuery <small>(Propotsition)</small>
+L'OpenQuery _(Propotsition)_
 ===
 
 ## Objectifs
@@ -30,7 +30,7 @@ Tentons de réaliser le chemin d’une personne n'ayant pas encore participé au
 #### 1) Nuit debout ! c'est quoi ?
 
 ```js
-articles / tag( NuitDebout )
+articles / tag( 'NuitDebout' )
 ```
 
 Ici touts les articles du groupe NuitDebout sont retournés.
