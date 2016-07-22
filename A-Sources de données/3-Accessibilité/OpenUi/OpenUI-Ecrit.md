@@ -2,6 +2,8 @@
 Proposition pour le formatage des données de l'élément `<Ecrit>`
 ===
 
+> :grey_exclamation: Ce document est une base de réflexions, il n’a pas pour but d’imposé quoique ce ça mais d’illustrer la proposition.
+
 ## Contraintes :
 
 Le formatage de ces données a pour obligation d'être légé. rapidement serialisable et convertissable
