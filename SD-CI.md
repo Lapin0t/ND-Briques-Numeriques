@@ -2,8 +2,6 @@
 Serveur === Données <-> Client === Interfaces
 ===
 
-> Ceci est une proposition personnelle qui demande à être construit (ou non) collectivement
-
 ## Philosophie
 
 Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages.
@@ -26,9 +24,6 @@ Par conséquent, admettre que les "serveurs" fournissent uniquement des données
 -	Impose une application native par type de débit-internet/puissance-machine
   (Des solutions comme Meteor, nodeWebkit, electron, cordova/phoneGap peuvent alléger cette contrainte)
 
-
-## Contrainte
-
-(si aprouvé)
+## Road map
 
 -	Définir le(s) Framework(s) coté client (React-Redux/Angular/Ember/etc…) pour que les travaux de chacuns puisse sur être homogène !
