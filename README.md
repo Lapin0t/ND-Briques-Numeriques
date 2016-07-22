@@ -69,10 +69,13 @@ Logiciel libre & open sources
 ### L'interface utilisateurs
 
 - API OpenUi
+  ??
 
 - API OpeneDemocraticProcess
+  Définit les outils pour que chaque collectifs, organisation, groupes, …, puissent mettre en actions leur système décisionnel. (ou choisir parmi un panel de solutions module)
 
 - UX
+  Bon là je n’ai surement pas besoin d’expliquer l’utilité d’une UX bien faite… :)
 
 ---
 
