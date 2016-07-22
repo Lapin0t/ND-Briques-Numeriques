@@ -14,11 +14,15 @@ A-Sources de données / Stockage & Rangement
 Actuellement nous n’avons rien de fonctionnelle pour répondre à cette contrainte à part peut-être des tags ajouter aux post et message permettant des recherche…:/
 
 Par contre il y a des initiatives faites 
-- _Pour l'objectif 1_, le groupe de réflexion [Chat Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
+- _Pour l'objectif 1_
+  - le groupe de réflexion [Chat Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
+
 - _Pour l'objectif 3_
   - L'initiative de synthèse des discutions ND [synapse debout](https://wiki.nuitdebout.fr/wiki/Ressources/SYNAPSES_DEBOUT)
   - Et le travails de philippe Esling [Democrite](https://github.com/esling/democrite)
-- _Pour l'objectif 4_, le groupe de réflexion [Mémoire Commune](https://wiki.nuitdebout.fr/wiki/Villes/Paris/Accueil_et_coordination/M%C3%A9moire_Commune#Stockage_num.C3.A9rique)
+
+- _Pour l'objectif 4_
+  - le groupe de réflexion [Mémoire Commune](https://wiki.nuitdebout.fr/wiki/Villes/Paris/Accueil_et_coordination/M%C3%A9moire_Commune#Stockage_num.C3.A9rique)
 
 ---
 ## Pistes
