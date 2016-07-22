@@ -12,7 +12,7 @@ A-Sources de données / Accessibilité
 _Pour l'objectif 1_
 
 - Une interface de requéte doit pouvoir proposer aux développeurs un accès simple et lisible aux données stockées.
-  Voir la proposition [OpenQuery](OpenQuery)
+  Voir la proposition [OpenQuery](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/3-OpenQuery)
 
 _Pour l'objectif 2_
 
