@@ -14,15 +14,18 @@ Par conséquent, admettre que les "serveurs" fournissent uniquement des données
   
 ## Avantages
 
-- Il sera plus facile pour un téléphone portable de devenir un serveur puisqu'il n’a pas à lancer du code php, java ou autre pour fournir des pages dynamiques.
+- Il sera plus facile pour un téléphone portable de -	Devenir un noeud sur un réseaux mesh puisqu'il n’a pas à lancer du code php, java ou autre pour fournir des pages dynamiques mais uniquement des données (eg. Bittorrent)
 
 - Celons son appareil et sa connexion, le client installeras l’affichage qui lui convient. L’utilisateur d’une Raspberry avec une faible connexion ne souhaitera probablement pas une page chargent de lourds image, styles et script. Alors que sur un pc branché avec fibre cela peut être l’inverse.
 
-- Permettre à chacun d’utiliser les données pour créer des UX adapté les besoins divers des utilisateurs.
+- Permettre à chacun d’utiliser les données pour créer des UX adapté aux besoins divers des utilisateurs.
 
 ## Désavantages
 
 -	Communecter est construit sur un Framework MVC pas vraiment dans cette idée…
+-	Impose une application native par type de débit-internet/puissance-machine
+  (Des solutions comme Meteor, nodeWebkit, electron, cordova/phoneGap peuvent alléger cette contrainte)
+
 
 ## Contrainte
 
