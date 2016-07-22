@@ -12,6 +12,8 @@ Voici les liens des travaux effectués servant de base de réflexions à ce cahi
   [Synthése de la carte mentale générale](https://www.mindmeister.com/721715693/hackathondebout-vue-d-ensemble) \
   [Les projets complémentaire](https://www.mindmeister.com/724295990/hackathondebout-projets-compl-mentaires)
 
+- NuitDebout par [communecter.org](https://docs.google.com/document/d/1wZnQ6_0ak9YkXiglp1r5GNjxtrf6W6NP43wq2gvrkKg/mobilebasic)
+
 ## Philosophie
 
 Donne-moi des briques et je construirais
@@ -40,16 +42,11 @@ Logiciel libre & open sources
 Propositions
 ===
 
-### A. Propositions de Communecter
-
-  - [NuitDebout sur communecter.org](https://docs.google.com/document/d/1wZnQ6_0ak9YkXiglp1r5GNjxtrf6W6NP43wq2gvrkKg/mobilebasic)
-
----
 ### B. Proposition sectorisé en API
 
 ### Philosophie globale :
 
-- Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages. Mais admettre que les "serveurs" fournissent uniquement des données, et les "clients" s’occupent de créer UI. Voir [SD-CI](SD-CI.md)
+- Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages. Mais admettre que les "serveurs" fournissent uniquement des données, et les "clients" s’occupent de créer UI. Pourquoi ? voir [SD-CI](SD-CI.md)
 
 ### Structure réseau
 
