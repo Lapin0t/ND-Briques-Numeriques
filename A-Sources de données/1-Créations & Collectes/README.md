@@ -24,8 +24,7 @@ Listez ici les travaux et librairies existante, stable et donc envisageables des
 - ...
 
 ---
-
-### Pistes annexes
+## Pistes annexes
 
 Ici ce trouve les autres pistes qui ne réponde pas à la chartre précédente : par exemple l’api mumble et périscope, je sais qu’elle existe mais n’ai aucune expérience avec leurs utilisations
 
