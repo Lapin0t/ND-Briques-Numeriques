@@ -81,7 +81,4 @@ Propositions
 - UX
   Bon là je n’ai surement pas besoin d’expliquer l’utilité d’une UX bien faite… :)
 
----
-
-https://prism-break.org/fr/all/
 

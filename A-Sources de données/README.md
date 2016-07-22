@@ -27,9 +27,5 @@ L'information est un sens large. Il peut y avoir
 - Des débats, votes
 - etc...
 
-## Pistes
-
-- Comprendre les formats de données utilisé par Communecter.
-- Les bases de données graph semble adaptées.
 
 
