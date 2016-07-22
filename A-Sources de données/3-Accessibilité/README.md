@@ -11,7 +11,7 @@ A-Sources de données / Accessibilité
 
 _Pour l'objectif 1_
 
-- Une [OpenQuery](OpenQuery.md) doit pouvoir proposer aux développeurs UX un accès simple et lisible aux données stockées.
+- Une [OpenQuery](OpenQuery) doit pouvoir proposer aux développeurs UX un accès simple et lisible aux données stockées.
 
 _Pour l'objectif 2_
 
