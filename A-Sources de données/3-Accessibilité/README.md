@@ -11,7 +11,8 @@ A-Sources de données / Accessibilité
 
 _Pour l'objectif 1_
 
-- Une [OpenQuery](OpenQuery) doit pouvoir proposer aux développeurs un accès simple et lisible aux données stockées.
+- Une interface de requéte doit pouvoir proposer aux développeurs un accès simple et lisible aux données stockées.
+  Voir la proposition [OpenQuery](OpenQuery)
 
 _Pour l'objectif 2_
 

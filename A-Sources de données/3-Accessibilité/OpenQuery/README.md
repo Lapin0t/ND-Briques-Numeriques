@@ -11,7 +11,7 @@ L’OpenQuery est une API façade pour accéder à la base de données destiné 
 Sa simplicité, lisibilité et documentation doit permettre :
 -	Aux intégrateur d’UX de ne pas ce soucié des contraintes réelles qu’impose le choix d’un système de stockage de données.
 -	Facilité des initiatives à créer des plugins WP, Drupal, etc, pour que chaque asso ayant leur site puisse mettre à jour leurs données sans passer par une nouvelle plateforme
--	Et surement pleins d’initiatique auquel on ne peut penser…
+-	Et surement pleins d'initiatives auquel on ne peut penser…
 
 ## Etudes de cas
 

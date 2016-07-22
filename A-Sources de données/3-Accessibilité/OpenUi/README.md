@@ -12,7 +12,7 @@ l'OpenUI
 - [Riotjs](http://riotjs.com/fr/)
 - OnsenUI
 
-## Prposition
+## Proposition
 
 - Implémenter de serveur de tuile (eg. OpenStreetMap) pour les agendas, forums, actions, projets, etc...
 

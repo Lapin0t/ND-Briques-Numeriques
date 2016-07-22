@@ -53,10 +53,10 @@ Propositions
 
 ### Structure réseau
 
-- L'[OpenNet]()
+- L'[OpenNet](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/A-Structure%20r%C3%A9seau/1-OpenNet)
   as pour but de définir les modéles et protocoles utiliser pour la plateforme.
 
-- L'[OpenBox]()
+- L'[OpenBox](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/A-Structure%20r%C3%A9seau/2-OpenBox)
   est une couche matérielle de l’OSI ayant but d’aider et favoriser l’accès à la communication internet
 
 ### Les données
@@ -70,13 +70,15 @@ Propositions
 - L'api [OpenQuey]()
   définit les protocoles et fonctions d’accès aux données
 
+### Processus décisionnels
+
+- API OpenDemocraticProcess
+  Définit les outils pour que chaque collectifs, organisation, groupes, …, puissent mettre en actions leur système décisionnel. (ou choisir parmi un panel de solutions module)
+
 ### L'interface utilisateurs
 
 - API OpenUi
-  ??
-
-- API OpeneDemocraticProcess
-  Définit les outils pour que chaque collectifs, organisation, groupes, …, puissent mettre en actions leur système décisionnel. (ou choisir parmi un panel de solutions module)
+  Ceci est une représentation visuel de toute les API précédente
 
 - UX
   Bon là je n’ai surement pas besoin d’expliquer l’utilité d’une UX bien faite… :)
