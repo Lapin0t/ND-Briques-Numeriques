@@ -58,10 +58,10 @@ Propositions
 
 ### Les données
 
-- L'api [OpenSchema]()
+- L'api [OpenSchema](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/1-OpenSchema)
   définit l’ontologie des données et leurs schémas
 
-- L'[OpenDb]()
+- L'[OpenDb](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/2-OpenDb)
   définis les serveurs physiques utilisable pour la plateforme
   
 - L'api [OpenQuey]()
@@ -69,7 +69,7 @@ Propositions
 
 ### Processus décisionnels
 
-- API OpenDemocraticProcess
+- API [OpenDemocraticProcess](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/C-Processus%20d%C3%A9cisionnels/1-OpenDemocraticProcess)
   Définit les outils pour que chaque collectifs, organisation, groupes, …, puissent mettre en actions leur système décisionnel. (ou choisir parmi un panel de solutions module)
 
 ### L'interface utilisateurs
