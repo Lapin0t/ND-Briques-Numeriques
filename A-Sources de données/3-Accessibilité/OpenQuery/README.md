@@ -1,5 +1,4 @@
-L'OpenQuery
-<small>(Propotsition)</small>
+L'OpenQuery <small>(Propotsition)</small>
 ===
 
 ## Objectifs
