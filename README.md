@@ -43,7 +43,9 @@ Logiciel libre & open sources
 ---
 ## Proposition
 
-- [SD-CI](SD-CI.md) Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages. Mais admettre que les "serveurs" fournissent uniquement des données, et les "clients" s’occupent de créer UI.
+### Philosophie globale :
+
+- Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages. Mais admettre que les "serveurs" fournissent uniquement des données, et les "clients" s’occupent de créer UI. Voir [SD-CI](SD-CI.md)
 
 ### Structure réseau
 
