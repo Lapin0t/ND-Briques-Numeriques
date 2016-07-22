@@ -42,7 +42,7 @@ Logiciel libre & open sources
 Propositions
 ===
 
-### B. Proposition sectorisé en API
+### B. Proposition sectorisé en briques
 
 ### Philosophie globale :
 
@@ -58,13 +58,13 @@ Propositions
 
 ### Les données
 
-- L'api [OpenSchema](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/1-OpenSchema)
+- L'[OpenSchema](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/1-OpenSchema)
   définit l’ontologie des données et leurs schémas
 
 - L'[OpenDb](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/2-OpenDb)
   définis les serveurs physiques utilisable pour la plateforme
   
-- L'api [OpenQuey]()
+- L'[OpenQuey](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/3-OpenQuery)
   définit les protocoles et fonctions d’accès aux données
 
 ### Processus décisionnels
@@ -74,10 +74,10 @@ Propositions
 
 ### L'interface utilisateurs
 
-- API OpenUi
-  Ceci est une représentation visuel de toute les API précédente
+- L'[OpenUi](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/D-L'interface%20utilisateurs/1-OpenUi)
+  Regroupe des librairies d'éléments, widgets, composant, etc, réutilisables pour créer les UX.
 
-- UX
+- L'[UX](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/D-L'interface%20utilisateurs/2-UX)
   Bon là je n’ai surement pas besoin d’expliquer l’utilité d’une UX bien faite… :)
 
 
