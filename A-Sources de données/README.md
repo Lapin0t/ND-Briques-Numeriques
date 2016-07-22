@@ -6,6 +6,7 @@ Les sources de données
 
 1.	[Créations & Collectes](1-Créations & Collectes)
     -	Tout le monde peut créer de l'informations
+    - Hybridation avec le réel Periscope, radio, tv, Mumble, etc…)
 
 2.	[Stockage & Rangement](2-Stockage & Rangement)
     -	Décentraliser le stockage des données.

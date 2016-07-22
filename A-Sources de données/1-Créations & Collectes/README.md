@@ -11,7 +11,7 @@ Créations & Collectes
 - Tout le monde peut créer de l'information
 - Hybridation avec le réel Periscope, radio, tv, Mumble, etc…)
 
-## Pistes
+## Propositions
 
 Listez ici les travaux et librairies existante, stable et donc envisageables des aujourd’hui !
 

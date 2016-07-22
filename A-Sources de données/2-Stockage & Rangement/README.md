@@ -25,7 +25,7 @@ Par contre il y a des initiatives faites
   - le groupe de réflexion [Mémoire Commune](https://wiki.nuitdebout.fr/wiki/Villes/Paris/Accueil_et_coordination/M%C3%A9moire_Commune#Stockage_num.C3.A9rique)
 
 ---
-## Pistes
+## Propositions
 
 Listez ici les outils réaliste envisageables des aujourd’hui !
 
