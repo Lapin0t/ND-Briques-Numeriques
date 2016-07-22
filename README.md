@@ -69,7 +69,7 @@ Propositions
 
 ### Processus décisionnels
 
-- API [OpenDemocraticProcess](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/C-Processus%20d%C3%A9cisionnels/1-OpenDemocraticProcess)
+- L'[OpenDemocraticProcess](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/C-Processus%20d%C3%A9cisionnels/1-OpenDemocraticProcess)
   Définit les outils pour que chaque collectifs, organisation, groupes, …, puissent mettre en actions leur système décisionnel. (ou choisir parmi un panel de solutions module)
 
 ### L'interface utilisateurs
