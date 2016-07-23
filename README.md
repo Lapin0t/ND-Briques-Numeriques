@@ -1,6 +1,6 @@
 # ND-Briques-Numeriques
 
-> Le document suivant est un cahier des charges fonctionnel sur la base d’une synthèse du hackathon réaliser le 25 et 26 juin 2016
+> Le document suivant est un cahier des charges fonctionnels sur la base d’une synthèse du hackathon réaliser le 25 et 26 juin 2016
 
 ## Pré-requis
 
