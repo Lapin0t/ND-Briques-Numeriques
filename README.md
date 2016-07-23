@@ -4,7 +4,7 @@
 
 Voici les liens des travaux effectués servant de base de réflexions à ce cahier des charges :
 
-- Articles explicatif \
+- Articles explicatif
   [la Gazette Debout](http://gazettedebout.fr/2016/07/08/hackathondebout-geeks-de-nuit-debout-preparent-lavenir-mouvement/)
 
 - Le hackathon E-Democratie \
