@@ -61,13 +61,13 @@ Logiciel libre & open sources
 
 - Pour le 31 aout il nous faut lier les actifs entre eux et motiver l'envie de devenir actif.
 
-Propositions
+Proposition
 ===
 
 ### Proposition sectorisé en briques
 
-> Le lien suivant vous redirigeront vers le Github de production global.
+Voici la structure. L’arborescence « Besoins » correspond aux objectifs (ce Github) et « Architecture » correspond aux modules de travail ([cette autre Github](https://github.com/corbane/ND-Briques-Numeriques-api))
 
-[Github de production (générale)](https://github.com/corbane/ND-Briques-Numeriques-api)
+<img src="structure-hithub.png"/>
 
 
