@@ -34,8 +34,8 @@ Logiciel libre & open sources
 ## Contraintes
 
 - Il n'héxiste pas Une solution !  <br/>
-  Mme Michou, le petit gaetan ou Marc l'ingé-son ne souhaite la même interface
-  (**simple**, **personisable**)
+  Mme Michou, le petit gaetan ou Marc l'ingé-son ne souhaite pas la même interface
+  (**personisable**)
 
 - Pour le 31 aout il nous faut lier les actifs entre eux et motiver l'envie de devenir actif.
 
