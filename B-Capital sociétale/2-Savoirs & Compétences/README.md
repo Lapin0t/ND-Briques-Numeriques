@@ -1,10 +1,10 @@
-
-Savoirs & compétences
+B-Capital sociétale
+2-Savoirs & compétences
 ===
 
 ## Actuellement
 
-Nous utilisons MediaWiki et la suite framasoft pour partager et collaborer
+Nous utilisons essentiellementMediaWiki et la suite framasoft pour partager et collaborer
 
 ## Objectifs 
 
