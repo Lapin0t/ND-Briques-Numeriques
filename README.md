@@ -36,6 +36,7 @@ Logiciel libre & open sources
   2) Stockage & Rangement
   
   3) Accessibilité
+     > Seule manque la module sécurité. il fera probablement partis de cette brique fonctionnel
 
 -	[Le capital social](B-Capital sociétale)
 
