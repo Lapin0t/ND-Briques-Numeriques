@@ -2,6 +2,9 @@
 OpenDb
 ===
 
+## Objectifs
+
+- Décentraliser les données
 
 ## Propositions
 
