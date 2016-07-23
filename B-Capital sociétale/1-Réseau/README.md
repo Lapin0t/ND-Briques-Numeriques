@@ -8,12 +8,10 @@ Réseau
 2. Augmenter la prise de décision sur la place avec les outils mobile
 3. Mise à disposition des terminaux
 
-## Pistes
-
-- Objectif 1 & 2:
-  - L’appli meteormobil de communecter peut'elle être utile ?
-
 ## Propositions
 
 - Utiliser la base de communecter comme bique applicative.
+
+- Objectif 1 & 2:
+  - L’appli meteormobil de communecter peut'elle être utile ?
 
