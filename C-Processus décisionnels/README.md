@@ -2,9 +2,9 @@
 Processus décisionnels
 ===
 
-## Objectifs
+> ### :grey_exclamation: Cette brique du logiciel à été la plus flou du hackathon, j’ai donc fait uniquement la synthèse sans la morceler en petit morceaux fonctionnel.
 
-L’application numérique pour l'e-démocratie doit :
+## Objectifs
 
 1. Etre un outil délibératif
 2. Permettre la construction collective (concept, idée, règle)
