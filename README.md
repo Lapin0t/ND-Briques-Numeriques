@@ -54,7 +54,7 @@ Propositions
   as pour but de définir les modéles et protocoles utiliser pour la plateforme.
 
 - L'[OpenBox](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/A-Structure%20r%C3%A9seau/2-OpenBox)
-  est une couche matérielle de l’OSI ayant but d’aider et favoriser l’accès à la communication internet
+  est une couche matérielle ayant but d’aider et favoriser l’accès à la communication internet
 
 ### Les données
 
