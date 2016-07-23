@@ -3,7 +3,7 @@ Les APIs
 ===
 
 > Ceci est une proposition dans le but que chacun puisse participer à la création de la plateforme NuitDebout.
-Cette architecture est le morcellement en briques de la synthèse des souhaits des usagers ayant participés au hackathon
+Cette architecture est le morcellement en briques de la [synthèse des souhaits utilisateurs](https://github.com/corbane/ND-Briques-Numeriques/wiki) ayant participés au hackathon
 
 ### Philosophie globale :
 
