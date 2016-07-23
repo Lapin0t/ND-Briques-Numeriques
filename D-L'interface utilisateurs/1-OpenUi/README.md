@@ -45,6 +45,6 @@ de code automatique...
 
 - [ ] Inventorier les compétences avec les outils front-end de composants
       (eg, React.js, Riotjs, OnsenUI, Angular.js, Polymer, WebComponent, Knockout.js, Vue.js)
-- [ ] Evalué la solution React.js [Radium(]http://stack.formidable.com/radium/) permettant de dissocier la logique du style des composants.
+- [ ] Evalué la solution React.js [Radium](http://stack.formidable.com/radium/) permettant de dissocier la logique du style des composants.
 - [ ] Inventorier les compétences avec les outils de dev front-end
       (eg. cordova, ionic, xamarin, etc...)
