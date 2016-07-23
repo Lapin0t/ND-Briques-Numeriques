@@ -27,10 +27,23 @@ Logiciel libre & open sources
 ---
 ## Objectifs
 
-3 grand thèmes fonctionnel sont ressortis du hackathon :
+3 grand thèmes fonctionnel et sous modules sont ressortis du hackathon :
 
 -	[Les sources de données](A-Sources de données)
+
+  1. Créations & Collectes
+  2. Stockage & Rangement
+  3. Accessibilité
+     > Seule manque la module sécurité. il fera probablement partis de cette brique fonctionnel
+
 -	[Le capital social](B-Capital sociétale)
+
+  1. Réseau
+  2. Savoirs & Compétences
+  3. Moyens matériels
+  4. Moyens financiers
+  5. Projets & Actions
+
 -	[Le processus décisionnel](C-Processus décisionnels)
 
 ## Contraintes
