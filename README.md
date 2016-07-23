@@ -42,7 +42,7 @@ Logiciel libre & open sources
 Propositions
 ===
 
-### B. Proposition sectorisé en briques
+### Proposition sectorisé en briques
 
 ### Philosophie globale :
 
