@@ -44,6 +44,8 @@ Propositions
 
 ### Proposition sectorisé en briques
 
+> Les liens suivant vous redirigeront vers le Github de production global.
+
 ### Philosophie globale :
 
 - Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages. Mais admettre que les "serveurs" fournissent uniquement des données, et les "clients" s’occupent de créer UI. Pourquoi ? voir [SD-CI](SD-CI.md)
