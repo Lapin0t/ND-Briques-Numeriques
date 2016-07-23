@@ -1,5 +1,5 @@
-
-Moyens matériels
+B-Capital sociétale
+3-Moyens matériels
 ===
 
 ## Actuellement
