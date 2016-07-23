@@ -11,7 +11,7 @@ Réseau
 ## Pistes
 
 - Objectif 1 & 2:
-  - L’appli meteormobil de communecter peut'il être utile ?
+  - L’appli meteormobil de communecter peut'elle être utile ?
 
 ## Propositions
 
