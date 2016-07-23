@@ -46,42 +46,8 @@ Propositions
 
 ### Proposition sectorisé en briques
 
-> Les liens suivant vous redirigeront vers le Github de production global.
+> Le lien suivant vous redirigeront vers le Github de production global.
 
-### Philosophie globale :
-
-- Ne plus compter sur des serveurs de pages dynamiques. Ne même plus imaginer des serveurs de pages. Mais admettre que les "serveurs" fournissent uniquement des données, et les "clients" s’occupent de créer UI. Pourquoi ? voir [SD-CI](SD-CI.md)
-
-### Structure réseau
-
-- L'[OpenNet](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/A-Structure%20r%C3%A9seau/1-OpenNet)
-  as pour but de définir les modéles et protocoles utiliser pour la plateforme.
-
-- L'[OpenBox](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/A-Structure%20r%C3%A9seau/2-OpenBox)
-  est une couche matérielle ayant but d’aider et favoriser l’accès à la communication internet
-
-### Les données
-
-- L'[OpenSchema](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/1-OpenSchema)
-  définit l’ontologie des données et leurs schémas
-
-- L'[OpenDb](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/2-OpenDb)
-  définis les serveurs physiques utilisable pour la plateforme
-  
-- L'[OpenQuery](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/B-Les%20donn%C3%A9es/3-OpenQuery)
-  définit les protocoles et fonctions d’accès aux données
-
-### Processus décisionnels
-
-- L'[OpenDemocraticProcess](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/C-Processus%20d%C3%A9cisionnels/1-OpenDemocraticProcess)
-  Définit les outils pour que chaque collectifs, organisation, groupes, …, puissent mettre en actions leur système décisionnel. (ou choisir parmi un panel de solutions module)
-
-### L'interface utilisateurs
-
-- L'[OpenUi](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/D-L'interface%20utilisateurs/1-OpenUi)
-  Regroupe des librairies d'éléments, widgets, composant, etc, réutilisables pour créer les UX.
-
-- L'[UX](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/D-L'interface%20utilisateurs/2-UX)
-  Bon là je n’ai surement pas besoin d’expliquer l’utilité d’une UX bien faite… :)
+[Github de production (générale)](https://github.com/corbane/ND-Briques-Numeriques-api)
 
 
