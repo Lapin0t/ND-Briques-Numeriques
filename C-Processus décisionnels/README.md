@@ -2,8 +2,6 @@
 Processus décisionnels
 ===
 
-> ### :grey_exclamation: Cette brique du logiciel à été la plus flou du hackathon, j’ai donc fait uniquement la synthèse sans la morceler en petit morceaux fonctionnel.
-
 ## Objectifs
 
 1. Etre un outil délibératif
@@ -27,19 +25,14 @@ Processus décisionnels
 
 ## Propositions
 
-### API
+- API [OpenFlowProcess](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/C-Processus%20d%C3%A9cisionnels/1-OpenDemocraticProcess) permettant la description et l'application des processus de vote.
 
-- Proposer l'API [PHP condorcet](https://www.condorcet.vote/)
-- API OpenFlowProcess permettant la description et l'application des processus de vote.
-
-### UX
-
-- API OpenFlowProcessUi, une interface de programmation visuel
-(Oui je rêve, mais l’on m’a dit qu’il avait fallu de viser le soleil pour arriver sur la lune)
+- Des [composants UI](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/D-L'interface%20utilisateurs/1-OpenUi/D%C3%A9bats) pour la visualisation des processus.
 
 - Le principe de retranscrire les méthodes d’AG réel dans un outils virtuel me semble à réaliser et tester.
-Voir les travaux de Jean-Hugues Robert avec inseme
-([source](https://github.com/virteal/inseme), [démo](https://inseme.firebaseapp.com/)).
-  - [ ] Interroger la commission assemblée sur place.
+
+  Voir les travaux de Jean-Hugues Robert avec inseme
+  ([source](https://github.com/virteal/inseme), [démo](https://inseme.firebaseapp.com/)).
+  - [ ] Interroger la commission assemblée sur place. (En attente de réponse)
 
 
