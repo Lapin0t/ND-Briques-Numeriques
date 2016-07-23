@@ -6,6 +6,8 @@ Les données / OpenDb
 
 - Décentraliser les données
 
+voir les besoins [Stockage & Rangement](https://github.com/corbane/ND-Briques-Numeriques/wiki/A-2-Stockage-&-Rangement)
+
 ## Propositions
 
 ### Le projet OCDB de Communecter
