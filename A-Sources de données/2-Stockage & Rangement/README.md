@@ -11,7 +11,7 @@ A-Sources de données / Stockage & Rangement
 
 ## Actuellement
 
-Actuellement nous n’avons rien de fonctionnelle pour répondre à cette contrainte à part peut-être des tags ajouter aux post et message permettant des recherche…:/
+Actuellement nous n’avons rien de fonctionnelle pour répondre à cette contrainte à part peut-être des tags ajouter aux posts et messages permettant des recherche…:/
 
 Par contre il y a des initiatives faites 
 - _Pour l'objectif 1_
