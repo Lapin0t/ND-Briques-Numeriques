@@ -5,7 +5,7 @@ Les données / OpenQuery
 
 1. Centraliser l'accès aux informations _(l'accès pas les données bien sur)_
 
-   > voir les besoins utilisateurs [Sources de données / Accessibilité](https://github.com/corbane/ND-Briques-Numeriques/wiki/A-3-Accessibilit%C3%A9)
+   > voir les besoins utilisateurs [Sources de données](https://github.com/corbane/ND-Briques-Numeriques/wiki/A%20.Sources%20de%20données) / Accessibilité
 
 ## Description
 
@@ -88,4 +88,4 @@ articles / date( '0/0/2016' ) / .tag( 'cop21' )
 
 ## Propositions
 
-> :grey_exclamation: Communecter ! Assemble virtuel ! ce serais bien que vous indiquiez (si vous en avez) vos lib.js ou REST api pour effectuer les requêtes…
+> :question: Communecter ! Assemble virtuel ! ce serais bien que vous indiquiez (si vous en avez) vos lib.js ou REST api pour effectuer les requêtes…
