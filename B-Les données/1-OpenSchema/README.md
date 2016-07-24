@@ -9,7 +9,7 @@ Les données / OpenSchema
 ### Propositions
 
 - [Formatage des données écrites](Formatage des données écrites.md)
-- Formatage des données écrites par [gimmicks](http://dynalon.github.io/mdwiki/#!gimmicks.md) sur [MDwiki](http://dynalon.github.io/mdwiki/#!index.md)
+- Formatage des données écrites par [MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md)
 - :grey_exclamation: Assemblé virtuel ! Communecter ! ce serais cool que vous indiquiez ici vos ontologies et comment vous aider…
 
 
