@@ -20,7 +20,7 @@ L'interface utilisateurs / l'OpenUI
 
   - L'élément `<article>`
     Il le seule composant devant imposer une disposition graphique. Il doit permette de réaliser des article, documentation, manuel, description, etc…
-    Voir [Formatage des données écrites](https://github.com/corbane/ND-Briques-Numeriques-api/blob/master/B-Les%20donn%C3%A9es/1-OpenSchema/Formatage%20des%20donn%C3%A9es%20%C3%A9crites.md) de l'OpenSchema.
+    > Voir [Les données / OpenSchema / Formatage des données écrites](https://github.com/corbane/ND-Briques-Numeriques-api/blob/master/B-Les%20donn%C3%A9es/1-OpenSchema/Formatage%20des%20donn%C3%A9es%20%C3%A9crites.md)
 
   - L'élément `<Citoyen>`
 
