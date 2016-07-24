@@ -2,7 +2,11 @@
 L'interface utilisateurs / l'OpenUI
 ===
 
-## Description
+## Objectifs
+
+> voir les besoins [Interface utilisateurs / OpenUI](https://github.com/corbane/ND-Briques-Numeriques/wiki/D-.L'interface-utilisateurs)
+
+## Propositions
 
   - L'élément `<discussion>`
     Il doit offrir les fonctionnalités d'accès aux forums de discution
