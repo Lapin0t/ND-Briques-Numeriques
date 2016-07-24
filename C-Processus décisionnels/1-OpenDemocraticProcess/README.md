@@ -3,11 +3,11 @@ OpenDemocraticProcess
 
 :dizzy: Bon alors là c’est encore au stade « projet sur la comète ! » mais si ça peut donner des idées, why not ! :)
 
-## Prérequis
+## Objectifs
 
-Voir les [objectifs et synthéses](https://github.com/corbane/ND-Briques-Numeriques/tree/master/C-Processus%20d%C3%A9cisionnels) du hackathon
+> Voir les besoins utilisateurs [objectifs et synthéses](https://github.com/corbane/ND-Briques-Numeriques/wiki/C-.Processus-d%C3%A9cisionnels)
 
-## Propositions _(Qui peuvent être compatibles)_
+## Propositions
 
 ### Reéaliser un panel types de processus de vote
 
