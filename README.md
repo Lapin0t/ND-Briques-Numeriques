@@ -22,6 +22,7 @@ Pour vous donner une vision large, nous pouvons s’imaginé que le besoin est d
 > :grey_exclamation: Faire une chartre global et pour l’édition de ce doc et balancer ce qui suis dedans
 - Des API === Donne-moi des Lego et je fabriquerais
 - Se contraindre à une architecture (Serveur === Données <-> Client === Interfaces). Pourquoi ? voir [SD-CI](SD-CI.md)
+- Logiciel libre & open sources
 
 ## Architecture
 
