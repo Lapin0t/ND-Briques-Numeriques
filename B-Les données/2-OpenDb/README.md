@@ -16,9 +16,22 @@ voir les besoins [Stockage & Rangement](https://github.com/corbane/ND-Briques-Nu
 
 > :grey_exclamation: Communecter ! vous pouvez expliquer et indiquer rapidement ici comment contribuer
 
-### Une base données graph
+### Utiliser une base de données graph neo4j
 
-eg. Neo4j
+Avantages:
+
+-	La flexibilité et le potentiel de liaison entre les données est celons moi l’outils rêvé (oui rêvé) pour notre problématique de classifications et recherche.
+
+Inconvenants:
+
+-	L’application gratuite ne permet pas des index uniques, cela impose de faire la vérification soit même
+-	Débutant, très peut expérimenter avec cette solution
+
+Voir:
+
+- [Introduction à neo4j](http://logisima.developpez.com/tutoriel/nosql/neo4j/introduction-neo4j/#LI-E-8)
+
+(Jmv-archi sur racket chat)
 
 ### Un serveur de tuile générique
 
