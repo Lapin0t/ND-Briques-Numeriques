@@ -4,7 +4,9 @@ L'interface utilisateurs / l'OpenUI
 
 ## Objectifs
 
-> voir les besoins [Interface utilisateurs / OpenUI](https://github.com/corbane/ND-Briques-Numeriques/wiki/D-.L'interface-utilisateurs)
+- Regroupe des librairies d'éléments, widgets, composant, etc, réutilisables pour créer les UX.
+  
+  > voir les besoins [Interface utilisateurs / OpenUI](https://github.com/corbane/ND-Briques-Numeriques/wiki/D-.L'interface-utilisateurs)
 
 ## Propositions
 
