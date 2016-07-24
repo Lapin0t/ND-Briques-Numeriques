@@ -36,3 +36,8 @@ Voir:
 ### Un serveur de tuile générique
 
 Implémenter de serveur de tuile (eg. OpenStreetMap) pour les agendas, forums, actions, projets, etc...
+
+---
+## Annexes
+
+- [Article sur le p2p](http://schuler.developpez.com/articles/p2p/)
