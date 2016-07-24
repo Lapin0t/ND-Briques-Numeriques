@@ -5,7 +5,7 @@ OpenDemocraticProcess
 
 ## Objectifs
 
-> Voir les besoins utilisateurs [objectifs et synthéses](https://github.com/corbane/ND-Briques-Numeriques/wiki/C-.Processus-d%C3%A9cisionnels)
+> Voir les besoins utilisateurs [Processus décisionnels](https://github.com/corbane/ND-Briques-Numeriques/wiki/C-.Processus-d%C3%A9cisionnels)
 
 ## Propositions
 
