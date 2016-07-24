@@ -10,12 +10,12 @@ L'interface utilisateurs / l'OpenUI
 
 ## Propositions
 
-  - L'élément `<discussion>`
+  - L'élément [`<discussion>`](discussion)
     Il doit offrir les fonctionnalités d'accès aux forums de discution
 
   - L'élément [`<debat>`](débat)
 
-  - L'élément `<vote>`
+  - L'élément [`<vote>`](débat)
     Permettrais de visualiser et/ou enregistrer son vote que ce soit pour post de forum ou pour la délibération d'une loi.
 
   - L'élément `<article>`
