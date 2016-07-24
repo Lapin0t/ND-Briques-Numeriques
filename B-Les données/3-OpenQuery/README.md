@@ -5,6 +5,8 @@ Les données / OpenQuery
 
 1. Centraliser l'accès aux informations _(l'accès pas les données bien sur)_
 
+   > voir les besoins utilisateurs [Les données / Accessibilité](https://github.com/corbane/ND-Briques-Numeriques/wiki/A-3-Accessibilit%C3%A9)
+
 ## Description
 
 L’OpenQuery est une API façade pour accéder à la base de données destiné aux développeurs.
