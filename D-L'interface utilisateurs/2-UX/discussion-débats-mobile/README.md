@@ -43,3 +43,8 @@ Sur ces menus les autres actions sont disponible.
 
 ![Supprimer un message](UX-Message-Actions-Menu-Details.png)
 
+### Annexes
+
+- Une lib ayant le composant swipe tout fait [framework7 Swipeout](http://framework7.io/docs/swipeout.html)
+- Une lib plus légère [snabbt.js](http://daniel-lundin.github.io/snabbt.js/#transform-origin-example)
+
