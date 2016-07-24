@@ -35,12 +35,12 @@ Le problème est qu'il va en avoir beaucoup. Donc il est essentiel de présenter
 
 Donc l’UI doit assurer, voici des idées de présentations :
 
-- Spécialiser sur une ligne de temps
-- Spécialiser les résultats sur une carte
-- Spécialiser les notions générale
+- Spacialiser sur une ligne de temps
+- Spacialiser les résultats sur une carte
+- Spacialiser les notions générale
   - voir le travail de philippe Esling :
   [Democrite](https://github.com/esling/democrite)
-- bref voir [UX](https://github.com/corbane/ND-Briques-Numeriques-api/tree/master/D-L'interface%20utilisateurs/2-UX) ...
+- bref voir [UX](../../D-L'interface utilisateurs/2-UX) ...
 
 
 #### 2) Ah ! L'aide aux refugié m'intérese !
