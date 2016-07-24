@@ -1,4 +1,12 @@
 
+Historiquement ce projet est né des réflexions de la commission « NuitDebout Demain ». Cette commission et constituer essentiellement d’actifs de d’autre commissions et a pour but d’anticiper et favoriser l’avenir du mouvement.
+
+Nous nous sommes vite rendu compte que nous ne souhaitions devenir une énième association ou collectif. Il a été aussi constater qu’il y a énormément d’initiatives partout en France et ce depuis des années. Mais que toutes, nuit debout compris, souffrais d’un manque de visibilité et d’interconnexions extérieurs comme internes.
+
+Ce projet a donc été initié pour résoudre cette problématique et un hackathon a été réaliser afin d’identifié les problèmes et en extraire des besoins essentiels.
+Pour vous donner une vision large, nous pouvons s’imaginé que le besoin est de faire converger et interconnecter toutes les initiatives de cet [annuaire](http://4emesinge.com/geographie-des-alternatives).
+
+
 > Ceci est une proposition dans le but que chacun puisse participer à la création de la plateforme NuitDebout.
 Cette architecture est le morcellement en briques de la [synthèse des souhaits utilisateurs](https://github.com/corbane/ND-Briques-Numeriques/wiki) ayant participés au hackathon
 
