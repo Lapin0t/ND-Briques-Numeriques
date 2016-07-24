@@ -19,7 +19,7 @@ Pour vous donner une vision large, nous pouvons imaginé que le besoin est de fa
   - que chacun puissent contribuer au développement de l’application
   - et que chacun est une  vision globale de son travail et de ceux des autres
 
-> :grey_exclamation: Faire une chartre global et pour l’édition de ce doc et balancer ce qui suis dedans
+> :exclamation: Faire une chartre global et pour l’édition de ce doc et balancer ce qui suis dedans
 - Des API === Donne-moi des Lego et je fabriquerais
 - Se contraindre à une architecture (Serveur === Données <-> Client === Interfaces). Pourquoi ? voir [SD-CI](SD-CI.md)
 - Logiciel libre & open sources
