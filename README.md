@@ -13,7 +13,7 @@ Pour vous donner une vision large, nous pouvons s’imaginé que le besoin est d
 
 > Pour plus de détail voire [synthèse des souhaits utilisateurs](https://github.com/corbane/ND-Briques-Numeriques/wiki)
 
-## Philosophie globale :
+## Philosophie
 
 - Cette architecture est le morcellement en briques fonctionnelles de la synthèse des souhaits utilisateurs. Elle a pour but
   - que chacun puissent contribuer au développement de l’application
@@ -24,6 +24,8 @@ Pour vous donner une vision large, nous pouvons s’imaginé que le besoin est d
 - Se contraindre à une architecture (Serveur === Données <-> Client === Interfaces). Pourquoi ? voir [SD-CI](SD-CI.md)
 
 ## Architecture
+
+Passons maintenant dans le vif du sujet :) 
 
 ### Structure réseau
 
