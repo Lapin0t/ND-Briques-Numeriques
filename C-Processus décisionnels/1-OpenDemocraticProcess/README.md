@@ -76,12 +76,16 @@ Une interface utilisateur permettant visuellement du type red-node, grasshopper,
 - [ ] Editer des scenarios
 
 ---
-## Outils
+## Annexes
 
-> CHARTRE :
-> -	:exclamation: N’indiquer que les outils, librairies que vous avez déjà utilisés, Les copier-coller de liens web sont inconstructif.
-> - :exclamation: Le but n’est pas de faire un recensement mais une liste d’outil envisageable immédiatement. (On oubliera donc les outils trop jeunes même avec de belles perspectives)
-> -	Prenez le temps d’expliquer les avantages et inconvénients de l’outil
-> -	Si l’outil demande plus de détail (et si vous êtes d’accord), veuillez indiquer un moyen de vous joindre. ex. pseudo racket chat, email, etc…
+### lib de calcul de vote
 
-voir [outils.csv](../outils.csv)
+- [PHP] [condorcet](https://www.condorcet.vote)
+
+### Analyseur syntaxique 
+
+- [JS]	[peg.js](http://pegjs.org/)
+  - Stable et pratique avec un éditeur en ligne
+  - Pas trop efficace avec les récusions gauche (lr)
+    
+    (jmv_archi sur rocket chat)
