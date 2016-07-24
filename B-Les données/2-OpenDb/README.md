@@ -4,11 +4,9 @@ Les données / OpenDb
 
 ## Objectifs
 
-> Voir les besoins utilisateurs: [Stockage & Rangement](https://github.com/corbane/ND-Briques-Numeriques/wiki/A-2-Stockage-&-Rangement)
-
 - Décentraliser les données
 
-  > Voir le groupe de réflexion [Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
+  > Voir le groupe de réflexion [Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P) sur la page [besoins utilisateurs: Stockage & Rangement](https://github.com/corbane/ND-Briques-Numeriques/wiki/A-2-Stockage-&-Rangement)
   
 ## Propositions
 
