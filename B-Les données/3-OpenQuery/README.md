@@ -7,7 +7,7 @@ Les données / OpenQuery
 
    > voir les besoins utilisateurs [Sources de données](https://github.com/corbane/ND-Briques-Numeriques/wiki/A%20.Sources%20de%20données) / Accessibilité
    
-2. Permettre d’avoir une zone tampon (api façade/proxy) entre le travail de l’[OpenDb](OpenDb) et celui de L’[OpenUi]'(../../D-L'interface%20utilisateurs/1-OpenUi)
+2. Permettre d’avoir une zone tampon (api façade/proxy) entre le travail de l’[OpenDb](OpenDb) et celui de L’[OpenUi](../../D-L'interface%20utilisateurs/1-OpenUi)
 
 ## Description
 
