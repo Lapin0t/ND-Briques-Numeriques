@@ -8,8 +8,7 @@ Les données / OpenSchema
 
 ### Propositions
 
-- [Formatage des données écrites JsonML]()
-- [Formatage des données écrites (fait main)](Formatage des données écrites.md)
+- [Formatage des données écrites](Formatage des données écrites.md)
 - :grey_exclamation: Assemblé virtuel ! Communecter ! ce serais cool que vous indiquiez ici vos ontologies et comment vous aider…
 
 
