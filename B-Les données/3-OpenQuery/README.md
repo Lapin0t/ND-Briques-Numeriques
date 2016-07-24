@@ -83,3 +83,7 @@ Ici nous cherchons tous les article taguer 'cop21' durant l'année 2016.
 ```js
 articles / date( '0/0/2016' ) / .tag( 'cop21' )
 ```
+
+## Propositions
+
+> :grey_exclamation: Communecter ! Assemble virtuel ! ce serais bien que vous indiquiez (si vous en avez) vos lib.js ou REST api pour effectuer les requêtes…
