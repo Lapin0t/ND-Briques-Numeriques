@@ -16,7 +16,7 @@ Les données / OpenDb
 
 > :question: Communecter ! vous pouvez expliquer et indiquer rapidement ici comment contribuer
 
-(Communecter)
+_(ContactCommunecter)_
 
 ### Utiliser une base de données graph neo4j
 
@@ -33,7 +33,7 @@ Voir:
 
 - [Introduction à neo4j](http://logisima.developpez.com/tutoriel/nosql/neo4j/introduction-neo4j/#LI-E-8)
 
-(Jmv-archi sur racket chat)
+_(ContactJmv-archi sur racket chat)_
 
 ### Un serveur de tuile générique
 
@@ -41,7 +41,8 @@ Implémenter de serveur de tuile (eg. OpenStreetMap) pour les agendas, forums, a
 
 > voir [Les Micro-tâches de Nuit Debout](https://hackmd.io/s/r1H_Gkhr)
 
-(Jmv-archi sur racket chat)
+_(Contact Jmv-archi sur racket chat)_
+
 ---
 ## Annexes
 
