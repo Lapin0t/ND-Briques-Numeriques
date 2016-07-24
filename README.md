@@ -4,7 +4,7 @@ NuitDebout, la brique numérique
 
 ## Origine
 
-Historiquement ce projet est né des réflexions de la commission « NuitDebout Demain ». Cette commission et constituer essentiellement d’actifs de d’autre commissions et a pour but d’anticiper et favoriser l’avenir du mouvement.
+Historiquement ce projet est né des réflexions de la commission « NuitDebout Demain ». Cette commission est constituer essentiellement d’actifs de d’autre commissions et a pour but d’anticiper et favoriser l’avenir du mouvement.
 
 Nous nous sommes vite rendu compte que nous ne souhaitions devenir une énième association ou collectif. Il a été aussi constater qu’il y a énormément d’initiatives partout en France et ce depuis des années. Mais que toutes, nuit debout compris, souffrais d’un manque de visibilité et d’interconnexions extérieurs comme internes.
 
