@@ -1,5 +1,4 @@
-B-Les données
-3-OpenQuery
+Les données / OpenQuery
 ===
 
 ## Objectifs
