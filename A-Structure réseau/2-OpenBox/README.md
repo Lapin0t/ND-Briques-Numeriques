@@ -2,9 +2,9 @@
 L'OpenBox
 ===
 
-## Objectifs
-
 > ### :exclamation: Ce document est encore un gros brouillons !!
+
+## Objectifs
 
 - Décentraliser le stockage des données.
 
