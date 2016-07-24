@@ -61,5 +61,5 @@ Passons maintenant dans le vif du sujet :yum:
   Bon là je n’ai surement pas besoin d’expliquer l’utilité d’une UX bien faite… :)
 
 
-
-
+---
+> :question: L’OpenFunding pour les Moyens financiers, j’avoue ne pas savoir ou le mettre. Est-ce des données, un processus décisionnels, une structure réseau, ou un peu des trois. Mais il faut pouvoir que des groupes ad-hoc puisse travailler dessus le plus indépendamment…
