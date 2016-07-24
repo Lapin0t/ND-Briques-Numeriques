@@ -25,7 +25,7 @@ Avantages:
 Inconvenants:
 
 -	L’application gratuite ne permet pas des index uniques, cela impose de faire la vérification soit même
--	Débutant, très peut expérimenter avec cette solution
+-	N’est pas une base de données décentraliser. Une solution serais de faire des réplicas.
 
 Voir:
 
