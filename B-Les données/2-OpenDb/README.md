@@ -16,6 +16,8 @@ Les données / OpenDb
 
 > :question: Communecter ! vous pouvez expliquer et indiquer rapidement ici comment contribuer
 
+(Communecter)
+
 ### Utiliser une base de données graph neo4j
 
 Avantages:
@@ -37,6 +39,9 @@ Voir:
 
 Implémenter de serveur de tuile (eg. OpenStreetMap) pour les agendas, forums, actions, projets, etc...
 
+> voir [Les Micro-tâches de Nuit Debout](https://hackmd.io/s/r1H_Gkhr)
+
+(Jmv-archi sur racket chat)
 ---
 ## Annexes
 
