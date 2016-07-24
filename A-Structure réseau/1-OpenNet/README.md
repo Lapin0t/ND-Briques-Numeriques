@@ -1,16 +1,6 @@
 
+Structure réseau / OpenNet
 
-## Protocoles
-
-## Le routage
-
-- Kademlia
-  - DHT avec distance d'idetifiant
-
-
-- telehash
-  - Je ne sais pas mais utilisé par Bitcoin
-
-## Couche matériels
-
-- toujours pas trouver de lib pour la wifi direct... !!
+> J’espère que nous n’aurons pas à aller dans ce genre de développement !
+>
+> voir le groupe de réflexion [Réseaux Mesh & P2P](https://wiki.nuitdebout.fr/wiki/R%C3%A9seaux_Mesh_%26_P2P)
