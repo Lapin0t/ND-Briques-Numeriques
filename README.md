@@ -15,8 +15,9 @@ Pour vous donner une vision large, nous pouvons s’imaginé que le besoin est d
 
 ### Philosophie globale :
 
-> Ceci est une proposition dans le but que chacun puisse participer à la création de la plateforme NuitDebout.
-Cette architecture est le morcellement en briques de la [synthèse des souhaits utilisateurs](https://github.com/corbane/ND-Briques-Numeriques/wiki) ayant participés au hackathon
+- Cette architecture est le morcellement en briques fonctionnelles de la synthèse des souhaits utilisateurs. Elle a pour but
+  - que chacun puissent contribuer au développement de l’application
+  - et que chacun est une  vision globale de son travail et de ceux des autres
 
 - Des API === Donne-moi des Lego et je fabriquerais
 
