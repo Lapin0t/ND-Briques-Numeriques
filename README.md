@@ -11,7 +11,7 @@ Nous nous sommes vite rendu compte que nous ne souhaitions devenir une énième 
 Ce projet a donc été initié pour résoudre cette problématique, puis un hackathon a été réaliser afin d’identifié les problèmes et en extraire des besoins essentiels.
 Pour vous donner une vision large, nous pouvons imaginé que le besoin est de faire converger et interconnecter toutes les initiatives de cet [annuaire](http://4emesinge.com/geographie-des-alternatives).
 
-> Pour plus de détail voire [synthèse des souhaits utilisateurs](https://github.com/corbane/ND-Briques-Numeriques/wiki)
+> Consultez en priorité [synthèse des souhaits utilisateurs](https://github.com/corbane/ND-Briques-Numeriques/wiki) pour plus de détails
 
 ## Philosophie
 
