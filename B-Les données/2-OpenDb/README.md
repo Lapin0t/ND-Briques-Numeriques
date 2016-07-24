@@ -14,7 +14,7 @@ Les données / OpenDb
 
 <img width="70%" src="ocdb.png"/>
 
-> :grey_exclamation: Communecter ! vous pouvez expliquer et indiquer rapidement ici comment contribuer
+> :question: Communecter ! vous pouvez expliquer et indiquer rapidement ici comment contribuer
 
 ### Utiliser une base de données graph neo4j
 
