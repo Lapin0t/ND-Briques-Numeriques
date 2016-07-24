@@ -16,7 +16,7 @@ Les données / OpenDb
 
 > :question: Communecter ! vous pouvez expliquer et indiquer rapidement ici comment contribuer
 
-_(ContactCommunecter)_
+_(Contact Communecter)_
 
 ### Utiliser une base de données graph neo4j
 
@@ -33,7 +33,7 @@ Voir:
 
 - [Introduction à neo4j](http://logisima.developpez.com/tutoriel/nosql/neo4j/introduction-neo4j/#LI-E-8)
 
-_(ContactJmv-archi sur racket chat)_
+_(Contact Jmv-archi sur racket chat)_
 
 ### Un serveur de tuile générique
 
