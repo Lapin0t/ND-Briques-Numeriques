@@ -6,6 +6,7 @@ Les données / OpenQuery
 1. Centraliser l'accès aux informations _(l'accès pas les données bien sur)_
 
    > voir les besoins utilisateurs [Sources de données](https://github.com/corbane/ND-Briques-Numeriques/wiki/A%20.Sources%20de%20données) / Accessibilité
+   > Permettre d’avoir une zone tampon (api façade/proxy) entre le travail de l’[OpenDb](OpenDb) et celui de L’[OpenUi]'(../../D-L'interface%20utilisateurs/1-OpenUi)
 
 ## Description
 
