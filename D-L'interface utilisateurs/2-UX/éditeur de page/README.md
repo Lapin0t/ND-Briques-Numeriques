@@ -5,7 +5,7 @@ Editeur de page
 ## Objectifs
 
 - Permettre aux plus néophytes de réaliser des pages, articles, documents, manuel, proposition, etc… le plus flexible possible en termes de présentation.
-  L’objectifs n’est pas de créer un logiciel de traitement de texte ou de remplacer les site web des collectif, participants, etc… Mais de permettre une présentation simple des annonce, projets, événement, proposition, …
+  L’objectifs n’est pas de créer un logiciel de traitement de texte ou de remplacer les site web des collectifs, participants, etc… Mais de permettre une présentation simple des annonces, projets, événements, propositions, …
 
 ## Proposition
 
