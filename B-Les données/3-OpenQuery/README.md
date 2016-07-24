@@ -30,9 +30,7 @@ articles / tag( 'NuitDebout' )
 ```
 
 Ici touts les articles du groupe NuitDebout sont retournés.
-
 Le problème est qu'il va en avoir beaucoup. Donc il est essentiel de présenter les résultats de manière lisible (et probablement global)
-
 Donc l’UI doit assurer, voici des idées de présentations :
 
 - Spacialiser sur une ligne de temps
