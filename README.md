@@ -9,7 +9,7 @@ Historiquement ce projet est né des réflexions de la commission « NuitDebout 
 Nous nous sommes vite rendu compte que nous ne souhaitions devenir une énième association ou collectif. Il a été aussi constater qu’il y a énormément d’initiatives partout en France et ce depuis des années. Mais que toutes, nuit debout compris, souffrais d’un manque de visibilité et d’interconnexions extérieurs comme internes.
 
 Ce projet a donc été initié pour résoudre cette problématique, puis un hackathon a été réaliser afin d’identifié les problèmes et en extraire des besoins essentiels.
-Pour vous donner une vision large, nous pouvons s’imaginé que le besoin est de faire converger et interconnecter toutes les initiatives de cet [annuaire](http://4emesinge.com/geographie-des-alternatives).
+Pour vous donner une vision large, nous pouvons imaginé que le besoin est de faire converger et interconnecter toutes les initiatives de cet [annuaire](http://4emesinge.com/geographie-des-alternatives).
 
 > Pour plus de détail voire [synthèse des souhaits utilisateurs](https://github.com/corbane/ND-Briques-Numeriques/wiki)
 
