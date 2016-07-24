@@ -41,3 +41,4 @@ Implémenter de serveur de tuile (eg. OpenStreetMap) pour les agendas, forums, a
 ## Annexes
 
 - [Article sur le p2p](http://schuler.developpez.com/articles/p2p/)
+- [IPFS](https://ipfs.io/)
