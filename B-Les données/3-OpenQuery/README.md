@@ -41,7 +41,7 @@ Donc l’UI doit assurer, voici des idées de présentations :
 - bref voir [UX](../../D-L'interface utilisateurs/2-UX) ...
 
 
-#### 2) Ah ! L'aide aux refugié m'intérese !
+#### 2) Ah ! L'aide aux refugiés m'intérese !
 
 ```js
 theme( 'réfugiés' ) / articles + groupes + evenements
