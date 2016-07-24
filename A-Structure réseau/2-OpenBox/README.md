@@ -2,6 +2,12 @@
 L'OpenBox
 ===
 
+## Objectifs
+
+- Décentraliser le stockage des données.
+
+  > voir les besoins utilisateurs [Sources de données](https://github.com/corbane/ND-Briques-Numeriques/wiki/A-.Sources-de-donn%C3%A9es)
+
 > ### :exclamation: Ce document est encore un gros brouillons !!
 
 ## Pistes
