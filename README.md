@@ -25,7 +25,7 @@ Pour vous donner une vision large, nous pouvons s’imaginé que le besoin est d
 
 ## Architecture
 
-Passons maintenant dans le vif du sujet :) 
+Passons maintenant dans le vif du sujet :yum:
 
 ### Structure réseau
 
