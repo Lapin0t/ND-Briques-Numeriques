@@ -6,7 +6,7 @@ Formatage des données écrites _(Proposition)_
 
 ## Description
 
-Le format MD semble bien adapté pour l’écriture de documents, légè et facilement serialisable/convertissable mais il devient limité dans certain cas.
+Le format MD semble bien adapté pour l’écriture de documents, légè et facilement serialisable/convertissable mais il devient limité dans certain cas. Les données de type articles, documents, manuels aurons besoin d’un minimum de représentations.
 
 ## améliorations
 
