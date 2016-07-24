@@ -2,7 +2,7 @@
 Le composant débat
 ===
 
-Ces propositions dépendent énormément du travail fait sur l'API [OpenDemocraticProcess](../../C-Processus décisionnels/1-OpenDemocraticProcess)
+Ces propositions dépendent énormément du travail fait sur l'API [OpenDemocraticProcess](../../../C-Processus décisionnels/1-OpenDemocraticProcess)
 
 ### Description
 
