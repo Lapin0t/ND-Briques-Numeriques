@@ -2,8 +2,6 @@
 Les données / OpenSchema
 ===
 
-> ### :exclamation: Ce document est encore un gros brouillons !!
-
 ### Objectifs
 
 > Voir [besoins utilisateurs / Stockage & Rangement](https://github.com/corbane/ND-Briques-Numeriques/wiki/A-2-Stockage-&-Rangement)
