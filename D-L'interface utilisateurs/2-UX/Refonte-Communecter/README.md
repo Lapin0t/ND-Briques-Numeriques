@@ -1,4 +1,3 @@
-
 - Refonte basée sur la platforme communecter
 
   - La page d'accueil

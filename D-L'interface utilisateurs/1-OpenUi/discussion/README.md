@@ -1,4 +1,3 @@
-
 Le composant Message
 ===
 
@@ -6,12 +5,12 @@ Le composant Message
 
 ## Objectifs
 
-- Envoyer un message
-- Répondre à un message
-- Supprimer un message de son affichage. (N’impacte pas les autres)
-- Catégorise les messages
-- Indiquer être d'accord avec un message
-- Indique ne pas être d'accord avec un message (impose un message réponse pour les débats)
+- envoyer un message
+- répondre à un message
+- supprimer un message de son affichage (n’impacte pas les autres)
+- catégoriser les messages
+- indiquer si on est d'accord avec un message
+- indiquer si on est ne pas d'accord avec un message (impose un message réponse pour les débats)
 
 ## Proposition
 

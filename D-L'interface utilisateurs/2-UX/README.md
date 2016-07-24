@@ -1,16 +1,15 @@
-
 UX
 ===
 
-## Proposition
+## Propositions
 
-### Parcpurs utilisateur
+### Parcours utilisateur
 
 <img src="parcpurs utilisateur.png"/>
 
 [sur Drawio](https://drive.google.com/file/d/0Bzq-31l08fL9RkxCYTFpZ1JZMGc/view?usp=sharing)
 
-### Plan communecter
+### Plan Communecter
 
 <img src="Plan communecter.png"/>
 

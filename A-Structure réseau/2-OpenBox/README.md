@@ -1,8 +1,6 @@
+# L'OpenBox
 
-L'OpenBox
-===
-
-> ### :exclamation: Ce document est encore un gros brouillons !!
+**:exclamation: Ce document est encore un gros brouillons !!**
 
 ## Objectifs
 
@@ -14,14 +12,13 @@ L'OpenBox
 
 - Un [concours de reseau Mesh](http://battlemesh.org/BattleMeshV9)
 
-
 - Top Es espagnol [wirelesspt](http://wirelesspt.net/) leur wiki []()
 
 - bmx6 (le protocole) qMp 
 
 - [Un listing](https://prism-break.org/fr/categories/routers/#mesh-networks)
 
-- Le projet [Commotion](https://www.commotionwireless.net/). ca page [wikipedia](https://fr.wikipedia.org/wiki/Commotion_(logiciel))
+- Le projet [Commotion](https://www.commotionwireless.net/), sa page [wikipedia](https://fr.wikipedia.org/wiki/Commotion_(logiciel))
 
 - Le projet [byzantium](http://project-byzantium.org/) et son [wiki github](https://github.com/Byzantium/Byzantium/wiki)
 - ByzPi (Raspberry pi 2)
@@ -30,14 +27,13 @@ L'OpenBox
 
 - [PirateBox](https://www.piratebox.cc/) et les [site.fr](https://pirateboxfr.com/bienvenue/)
   Sur [wikipedia](https://en.wikipedia.org/wiki/PirateBox)
-  Lien de telechargements [PirateBox 1.0.7 - RPi / RPi2 / RPi3 / RPi Zero](https://forum.piratebox.cc/read.php?7,16737)
+  Liens de téléchargement [PirateBox 1.0.7 - RPi / RPi2 / RPi3 / RPi Zero](https://forum.piratebox.cc/read.php?7,16737)
 
-- [YunoHost](https://yunohost.org) top !
-  avec les modules [hotspot](https://github.com/labriqueinternet/hotspot_ynh)
+- [YunoHost](https://yunohost.org) top avec les modules [hotspot](https://github.com/labriqueinternet/hotspot_ynh)
   et [piratebox](https://github.com/labriqueinternet/piratebox_ynh).
   Sur [wikipedia](https://fr.wikipedia.org/wiki/YunoHost)
 
-### Les serveurs décentraliser :
+### Les serveurs décentralisés
 
 
 - [la brique internet](https://labriqueinter.net/)
@@ -48,7 +44,4 @@ L'OpenBox
 
 - [arkOs](https://arkos.io/) initalement pour RPI [wikipedia](https://fr.wikipedia.org/wiki/ArkOS)
 
-
-Router Raspberry
-
-- https://ronnyvdbr.github.io/
+- [routeur sur Raspberry](https://ronnyvdbr.github.io/)

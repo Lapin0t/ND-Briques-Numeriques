@@ -1,14 +1,12 @@
+#Formatage des données écrites _(Proposition)_
 
-Formatage des données écrites _(Proposition)_
-===
-
-> ### :grey_exclamation: Ce document est encore un brouillons c’est donc une base de réflexion.
+**:grey_exclamation: Ce document est encore un brouillons c’est donc une base de réflexion.**
 
 ## Description
 
-Le format MD semble bien adapté pour l’écriture de documents, légè et facilement serialisable/convertissable mais il devient limité dans certain cas. Les données de type articles, documents, manuels aurons besoin d’un minimum de représentations.
+Le format MD semble bien adapté pour l’écriture de documents, légers et facilement sérialisables/convertissables mais cela devient limité dans certain cas. Les données de type articles, documents, manuels aurons besoin d’un minimum de représentations.
 
-## améliorations
+## Améliorations
 
 > Le format proposé ci-dessous n'as pas pour vocation à être utilisés par les utilisateurs mais pour but de réduire au minimum la taille des données, le standardiser et interopérable entre les applications.
 

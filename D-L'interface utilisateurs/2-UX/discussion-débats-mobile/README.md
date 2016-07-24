@@ -1,4 +1,3 @@
-
 UX discussion & débats sur mobile
 ===
 
@@ -27,11 +26,11 @@ UX discussion & débats sur mobile
 
 Proposition graphique de l'interface [`message`](../../1-OpenUi/discussion)
 
-L'action *supprimer un message* ce fait en le glissant vers la gauche.
+L'action *supprimer un message* se fait en le glissant vers la gauche.
 
 ![Supprimer un message](UX-Message-Actions-Swipe-Kill.png)
 
-L'action *épingler un message* ce fait en le glissant vers la droite.
+L'action *épingler un message* se fait en le glissant vers la droite.
 
 ![Supprimer un message](UX-Message-Actions-Swipe-Send.png)
 
@@ -39,7 +38,7 @@ En sélectionnant un message, un menu apparait.
 
 ![Affichage d'un message par défaut](UX-Message-Actions-Menu.png)
 
-Sur ces menus les autres actions sont disponible.
+Sur ces menus les autres actions sont disponibles.
 
 ![Supprimer un message](UX-Message-Actions-Menu-Details.png)
 

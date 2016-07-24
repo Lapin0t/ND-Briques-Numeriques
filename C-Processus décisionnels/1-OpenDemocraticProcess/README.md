@@ -9,7 +9,7 @@ OpenDemocraticProcess
 
 ## Propositions
 
-### Reéaliser un panel types de processus de vote
+### Réaliser un panel type de processus de vote
 
 - Consensus
 - Condorcet
@@ -20,7 +20,7 @@ OpenDemocraticProcess
 - [ ] Inventorier les processus de vote existants
 
 ---
-### Definir un language de définition de processus
+### Définir un language de définition de processus
 
 > Dans l’idée de permettre aux bidouilleurs non développeur de réaliser leurs processus de votes pour les besoins spécifique de leur asso, collectif, orga, etc...
 
@@ -60,7 +60,8 @@ FIN DE PROCEDURE DE DEPART
 - [ ] Definir la syntaxe
 
 ---
-### Créer un interface de programmation visuel
+
+### Créer une interface de programmation visuel
 
 > Dans l’idée de permettre aux plus grand nombre d'utilisateurs de réaliser leurs processus de votes
 
@@ -70,7 +71,7 @@ Une interface utilisateur permettant visuellement du type red-node, grasshopper,
 
 #### A faire
 
-- [ ] Definir les fonctions utilent
+- [ ] Définir les fonctions utiles
 
 ---
 
@@ -80,16 +81,16 @@ Une interface utilisateur permettant visuellement du type red-node, grasshopper,
 - [ ] Editer des scenarios
 
 ---
+
 ## Annexes
 
-### lib de calcul de vote
+### bibliothèque de calcul de vote
 
 - [PHP] [condorcet](https://www.condorcet.vote)
 
 ### Analyseur syntaxique 
 
-- [JS]	[peg.js](http://pegjs.org/)
+- [JS] [peg.js](http://pegjs.org/)
   - Stable et pratique avec un éditeur en ligne
   - Pas trop efficace avec les récusions gauche (lr)
-    
     (jmv_archi sur rocket chat)
