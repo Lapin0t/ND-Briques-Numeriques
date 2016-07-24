@@ -11,6 +11,10 @@ OpenDemocraticProcess
 
 ### Reéaliser un panel types de processus de vote
 
+- Consensus
+- Condorcet
+- etc ...
+
 #### A faire
 
 - [ ] Inventorier les processus de vote existants
