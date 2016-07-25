@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Nd-briques-numeriques by Lapin0t</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Nd-briques-numeriques</h1>
+        <p></p>
+
+        <p class="view"><a href="https://github.com/Lapin0t/ND-Briques-Numeriques">View the Project on GitHub <small>Lapin0t/ND-Briques-Numeriques</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/Lapin0t/ND-Briques-Numeriques/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/Lapin0t/ND-Briques-Numeriques/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/Lapin0t/ND-Briques-Numeriques">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a id="nuitdebout-la-brique-numérique" class="anchor" href="#nuitdebout-la-brique-num%C3%A9rique" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>NuitDebout, la brique numérique</h1>
+
+<h2>
+<a id="origine" class="anchor" href="#origine" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Origine</h2>
+
+<p>Historiquement ce projet est né des réflexions de la commission « NuitDebout
+Demain ». Cette commission est constituer essentiellement d’actifs de d’autre
+commissions et a pour but d’anticiper et favoriser l’avenir du mouvement.</p>
+
+<p>Nous nous sommes vite rendu compte que nous ne souhaitions devenir une énième
+association ou collectif. Il a été aussi constater qu’il y a énormément
+d’initiatives partout en France et ce depuis des années. Mais que toutes, nuit
+debout compris, souffrais d’un manque de visibilité et d’interconnexions
+extérieurs comme internes.</p>
+
+<p>Ce projet a donc été initié pour résoudre cette problématique, puis un
+hackathon a été réaliser afin d’identifié les problèmes et en extraire des
+besoins essentiels.  Pour vous donner une vision large, nous pouvons imaginé
+que le besoin est de faire converger et interconnecter toutes les initiatives
+de cet <a href="http://4emesinge.com/geographie-des-alternatives">annuaire</a>.</p>
+
+<blockquote>
+<p>Consultez en priorité <a href="https://github.com/corbane/ND-Briques-Numeriques/wiki">synthèse des souhaits
+utilisateurs</a> pour
+plus de détails</p>
+</blockquote>
+
+<h2>
+<a id="philosophie" class="anchor" href="#philosophie" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Philosophie</h2>
+
+<ul>
+<li>Cette architecture est le morcellement en briques fonctionnelles de la
+synthèse des souhaits utilisateurs. Elle a pour buts :
+
+<ul>
+<li>que chacun puissent contribuer au développement de l’application</li>
+<li>que chacun est une  vision globale de son travail et de ceux des autres</li>
+</ul>
+</li>
+</ul>
+
+<blockquote>
+<p><g-emoji alias="exclamation" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2757.png">❗</g-emoji> faire une charte global et pour l’édition de ce doc et balancer
+ce qui suit dedans</p>
+
+<ul>
+<li>Des API === Donne-moi des Lego et je fabriquerais.</li>
+<li>Se contraindre à une architecture (Serveur === Données &lt;-&gt; Client ===
+Interfaces). Pourquoi : voir <a href="SD-CI.md">SD-CI</a>.</li>
+<li>Logiciel libre &amp; open source.</li>
+</ul>
+</blockquote>
+
+<h2>
+<a id="architecture" class="anchor" href="#architecture" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Architecture</h2>
+
+<p>Passons maintenant dans le vif du sujet <g-emoji alias="yum" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60b.png">😋</g-emoji>.</p>
+
+<h3>
+<a id="structure-réseau" class="anchor" href="#structure-r%C3%A9seau" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Structure réseau</h3>
+
+<ul>
+<li><p>L'<a href="A-Structure%20r%C3%A9seau/1-OpenNet">OpenNet</a> as pour but de définir les
+modèles et protocoles utiliser pour la plateforme.</p></li>
+<li><p>L'<a href="A-Structure%20r%C3%A9seau/2-OpenBox">OpenBox</a> est une couche matérielle
+ayant but d’aider et favoriser l’accès à la communication internet.</p></li>
+</ul>
+
+<h3>
+<a id="les-données" class="anchor" href="#les-donn%C3%A9es" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Les données</h3>
+
+<ul>
+<li><p>L'<a href="B-Les%20donn%C3%A9es/1-OpenSchema">OpenSchema</a>
+définit l’ontologie des données et leurs schémas.</p></li>
+<li><p>L'<a href="B-Les%20donn%C3%A9es/2-OpenDb">OpenDb</a>
+définit les serveurs physiques utilisable pour la plateforme.</p></li>
+<li><p>L'<a href="B-Les%20donn%C3%A9es/3-OpenQuery">OpenQuery</a>
+définit les protocoles et fonctions d’accès aux données.</p></li>
+</ul>
+
+<h3>
+<a id="processus-décisionnels" class="anchor" href="#processus-d%C3%A9cisionnels" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Processus décisionnels</h3>
+
+<ul>
+<li>L'<a href="C-Processus%20d%C3%A9cisionnels/1-OpenDemocraticProcess">OpenDemocraticProcess</a>
+Définit les outils pour que chaque collectif, organisation ou groupe puissent
+mettre en actions leur système décisionnel (ou choisir parmi un panel de
+solutions module)</li>
+</ul>
+
+<h3>
+<a id="linterface-utilisateurs" class="anchor" href="#linterface-utilisateurs" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>L'interface utilisateurs</h3>
+
+<ul>
+<li><p>L'<a href="D-L'interface%20utilisateurs/1-OpenUi">OpenUi</a> Regroupe des librairies
+d'éléments, widgets et composants réutilisables pour créer les UX.</p></li>
+<li><p>L'<a href="D-L'interface%20utilisateurs/2-UX">UX</a> Bon là je n’ai sûrement pas besoin
+d’expliquer l’utilité d’une UX bien faite... :)</p></li>
+</ul>
+
+<hr>
+
+<blockquote>
+<p><g-emoji alias="question" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2753.png">❓</g-emoji> L’OpenFunding pour les Moyens financiers, j’avoue ne pas savoir ou
+le mettre. Est-ce des données, un processus décisionnels, une structure
+réseau, ou un peu des trois. Mais il faut pouvoir que des groupes ad-hoc
+puisse travailler dessus le plus indépendamment...</p>
+</blockquote>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/Lapin0t">Lapin0t</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
